@@ -1,0 +1,46 @@
+.bgr-gray {
+    background-color: rgb(224, 223, 223);
+  }
+
+  .bgr-blue {
+    background-color: #325FD7;
+  }
+
+/* Dual Images */
+
+.image-box {
+  height: 300px; /* Set a fixed height */
+  overflow: hidden; /* Ensure content doesn't overflow */
+  position: relative;
+  transition: transform 0.3s ease-out; /* Smooth transition for movement */
+}
+
+.image-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image covers the box without distortion */
+}
+
+/* Hover effect to lift the box */
+.image-box:hover {
+  transform: translateY(-10px); /* Move up slightly */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
+}
+
+/* Foreground animation */
+.image-box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.2); /* Semi-transparent white overlay */
+  opacity: 0;
+  transition: opacity 0.3s ease-out;
+  pointer-events: none; /* Ensure it doesn't interfere with clicks */
+}
+
+.image-box:hover::before {
+  opacity: 1; /* Show overlay on hover */
+}

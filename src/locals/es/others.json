@@ -1,0 +1,21 @@
+{
+  "about": {
+    "title": "Acerca de ElectroCasa",
+    "intro": "Bienvenido a ElectroCasa, tu tienda de confianza para electrodomésticos de calidad, los últimos productos de Apple y pellets de madera ecológicos.",
+    "storyTitle": "Nuestra Historia",
+    "storyText": "ElectroCasa nació con la intención de hacer tu vida más fácil y moderna, ofreciendo productos que combinan tecnología innovadora y confort en el hogar. Nos apasiona ofrecerte una experiencia de compra única, con artículos cuidadosamente seleccionados para garantizar calidad, rendimiento y durabilidad.",
+    "productsTitle": "Nuestros Productos",
+    "productsText": "En ElectroCasa, nos aseguramos de que cada producto cumpla con los más altos estándares. Nuestra gama de electrodomésticos cubre todas tus necesidades, desde las más básicas hasta las más sofisticadas, para hacer tu hogar más funcional y cómodo. Aquí encontrarás de todo, desde refrigeradores hasta lavadoras, robots de cocina y aspiradoras. Además, ofrecemos los últimos productos de Apple, para que tengas lo mejor de la tecnología en tus manos, ya sean teléfonos, tabletas, ordenadores o accesorios. Nuestro objetivo es proporcionarte los productos imprescindibles para simplificar tu vida, manteniéndote siempre a la vanguardia de la innovación. Finalmente, para quienes buscan una alternativa ecológica y económica para la calefacción, ofrecemos pellets de madera de alta calidad, ideales para estufas y calderas. Nuestros pellets se producen respetando el medio ambiente, proporcionándote una calefacción duradera y eficiente.",
+    "commitmentTitle": "Nuestro Compromiso",
+    "commitmentText": "En ElectroCasa, estamos comprometidos a ofrecer un servicio excepcional. Atendemos tus necesidades, y nuestro equipo está disponible para asesorarte y ayudarte a tomar las mejores decisiones. También nos enorgullece ofrecer precios competitivos, garantizando siempre una calidad de servicio que nos ha dado una buena reputación. Creemos en la importancia de una relación de confianza con nuestros clientes, y la satisfacción del cliente es nuestra prioridad. Cada pedido se prepara cuidadosamente y se envía en el menor tiempo posible.",
+    "whyTitle": "¿Por qué elegir ElectroCasa?",
+    "whyList": {
+      "1": "Una amplia selección de productos: electrodomésticos, productos Apple y pellets de madera.",
+      "2": "Asesoramiento personalizado: nuestro equipo te guía para encontrar los productos que mejor se adapten a tus necesidades.",
+      "3": "Calidad superior: trabajamos solo con marcas reconocidas y proveedores de confianza.",
+      "4": "Atención al cliente: estamos disponibles para responder todas tus preguntas, antes y después de la compra.",
+      "5": "Precios atractivos: disfruta de tarifas competitivas en productos de calidad."
+    },
+    "thanks": "En ElectroCasa, nos esforzamos por mejorar tu vida diaria, respetando siempre tus expectativas y valores. ¡Gracias por ser parte de nuestra aventura!"
+  }
+}

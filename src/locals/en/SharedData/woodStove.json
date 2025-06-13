@@ -1,0 +1,208 @@
+{
+  "stoves": [
+    {
+      "title": "MBS Eva 3-Sided Wood Stove",
+      "description": "A modern and elegant wood stove with three-sided glass for a stunning view of the fire.",
+      "price": "€1299.00",
+      "image": "/assets/Stove/stove1.webp",
+      "discount": 10,
+      "offer": "Limited time offer",
+      "category": "Wood Stoves",
+      "fullDescription": "The MBS Eva 3-Sided Wood Stove is a stylish and energy-efficient heating solution. Its three-sided glass design allows you to enjoy the fire from multiple angles, creating a cozy and visually appealing atmosphere in your home. This stove optimizes wood combustion for clean and efficient burning, reducing fuel consumption and emissions.",
+      "characteristics": "Three-sided glass design for a panoramic fire view | High energy efficiency with advanced combustion system | Made from high-quality, durable materials | Low CO2 emissions for an eco-friendly heating option | Powerful heating capacity, suitable for medium to large spaces | Easy maintenance with convenient access for cleaning.",
+      "benefits": "Enhanced energy efficiency, reducing wood consumption | Elegant and functional design that complements any interior | Consistent and uniform heating for optimal comfort | Long-term savings due to efficient fuel use | Durable construction ensures a long lifespan | Easy to operate and maintain with user-friendly controls.",
+      "dimensions": "Height: 100 cm | Width: 60 cm | Depth: 50 cm",
+      "moreImgs": [
+        "/assets/mbs-eva-1.webp",
+        "/assets/mbs-eva-2.webp"
+      ]
+    },
+    {
+      "title": "MBS Thermo In Wood Stove with Boiler",
+      "description": "A high-efficiency wood stove with an integrated boiler for central heating and room heating.",
+      "price": "€1899.00",
+      "image": "/assets/Stove/stove2.webp",
+      "discount": 15,
+      "offer": "Winter special",
+      "category": "Wood Stoves with Boiler",
+      "fullDescription": "The MBS Thermo In Wood Stove with Boiler is an ideal heating solution for those looking for an eco-friendly and efficient way to heat both their living space and central heating system. It integrates a high-efficiency boiler that distributes heat to radiators or underfloor heating systems, ensuring optimal warmth throughout your home.",
+      "characteristics": "Dual heating system for both air and central heating | High thermal power, ideal for large spaces | Advanced combustion technology for optimized wood burning | Low CO2 emissions for environmental friendliness | Robust and modern design with premium materials | Easy maintenance with accessible cleaning system.",
+      "benefits": "Superior energy efficiency with reduced wood consumption | Uniform heating for both space and central water system | Eco-friendly with minimized carbon footprint | Durable construction for long-term performance | Modern and attractive design fitting various home styles | Simple operation and maintenance.",
+      "dimensions": "Height: 120 cm | Width: 65 cm | Depth: 55 cm",
+      "moreImgs": [
+        "/assets/mbs-thermo-in-1.webp",
+        "/assets/mbs-thermo-in-2.webp"
+      ]
+    },
+    {
+      "title": "Thermo Vulcan 18 kW Wood Stove with Boiler",
+      "description": "A powerful 18 kW wood stove with an integrated boiler for home heating and hot water supply.",
+      "price": "€2150.00",
+      "image": "/assets/Stove/stove3-10.webp",
+      "discount": 12,
+      "offer": "Eco heating deal",
+      "category": "Wood Stoves with Boiler",
+      "fullDescription": "The Thermo Vulcan 18 kW Wood Stove with Boiler is a highly efficient and eco-friendly heating solution. Designed to provide both space heating and hot water for central heating systems, it ensures a steady and cost-effective warmth in your home. With a power output of 18 kW, it's perfect for medium to large households.",
+      "characteristics": "18 kW boiler power, ideal for medium to large spaces | Combined air and water heating system | High energy efficiency with optimized wood combustion | Sturdy and stylish design to fit any home | Easy to use and maintain with user-friendly controls | Made from premium materials for long-lasting durability.",
+      "benefits": "Economical heating, reducing energy costs | Environmentally friendly with low CO2 emissions | Provides both home heating and hot water | Easy to install and use | Long lifespan thanks to high-quality construction | Comfortable and uniform heat distribution.",
+      "dimensions": "Height: 130 cm | Width: 70 cm | Depth: 60 cm",
+      "moreImgs": [
+        "/assets/thermo-vulcan-1.webp",
+        "/assets/thermo-vulcan-2.webp"
+      ]
+    },
+    {
+      "title": "Hunter 14B Wood Stove",
+      "description": "A powerful and efficient wood stove designed for heating medium to large spaces.",
+      "price": "€1499.00",
+      "image": "/assets/Stove/stove4-5.webp",
+      "discount": 8,
+      "offer": "Limited stock",
+      "category": "Wood Stoves",
+      "fullDescription": "The Hunter 14B Wood Stove is an excellent choice for those looking for a powerful and efficient heating solution. With its modern and robust design, this stove ensures excellent heat distribution, making it ideal for medium to large spaces. Its advanced combustion system maximizes wood efficiency while reducing emissions.",
+      "characteristics": "High heating power, suitable for medium to large spaces | Efficient combustion system for optimized wood usage | Stylish and robust design to suit any home decor | Premium materials for durability and longevity | Low CO2 emissions, making it environmentally friendly | Easy to maintain and clean with accessible components.",
+      "benefits": "Energy-efficient with low wood consumption | Eco-friendly with reduced emissions | Elegant and functional design | Long lifespan with high-quality materials | Consistent and comfortable heat distribution | Easy to operate and maintain.",
+      "dimensions": "Height: 110 cm | Width: 62 cm | Depth: 50 cm",
+      "moreImgs": [
+        "/assets/hunter-14b-1.webp",
+        "/assets/hunter-14b-2.webp"
+      ]
+    },
+    {
+      "title": "Hunter 80B Wood Stove",
+      "description": "A high-performance wood stove designed for efficient and cost-effective home heating.",
+      "price": "€899.00",
+      "image": "/assets/Stove/stove4-5.webp",
+      "discount": 15,
+      "offer": "No current offer",
+      "category": "Wood Stoves",
+      "fullDescription": "The Hunter 80B Wood Stove is a high-performance heating solution, perfect for those looking to efficiently and economically warm their home. Its powerful combustion system and robust design ensure excellent heat distribution, providing consistent thermal comfort in large or medium spaces. It optimizes firewood use, guaranteeing a cleaner burn and lower fuel consumption, making it an eco-friendly and cost-effective choice.",
+      "characteristics": "High heating power, ideal for large and medium spaces | Efficient combustion system that reduces firewood consumption and emissions | Elegant and robust design, built with high-quality materials for durability | Low CO2 emissions, contributing to a cleaner environment | Large heating capacity, providing consistent warmth for long hours | Easy maintenance with simple access for cleaning and control.",
+      "benefits": "Energy-efficient with optimized combustion system maximizing firewood efficiency | Constant thermal comfort, keeping your home warm and cozy all day | Environmentally friendly due to low emissions and reduced firewood consumption | Attractive and functional design that fits various interior styles | Durable and resistant, built with strong materials for long life | Easy to use and maintain with accessible controls and simple operation.",
+      "dimensions": "Height: 105 cm | Width: 60 cm | Depth: 55 cm",
+      "moreImgs": [
+        "/assets/hunter-80b-1.webp",
+        "/assets/hunter-80b-2.webp"
+      ]
+    },
+    {
+      "title": "MBS Vesta Wood Stove",
+      "description": "An eco-friendly and high-efficiency wood stove with a modern design.",
+      "price": "€759.00",
+      "image": "/assets/Stove/stove6.webp",
+      "discount": 10,
+      "offer": "No current offer",
+      "category": "Wood Stoves",
+      "fullDescription": "The MBS Vesta Wood Stove is an ideal heating solution for those seeking efficiency and eco-friendliness. Featuring a sleek and functional design, the MBS Vesta delivers high thermal performance, ensuring a constant and comfortable warmth in your home. Its advanced combustion system optimizes firewood usage, reducing both consumption and emissions, making it an environmentally friendly and cost-effective choice.",
+      "characteristics": "High energy efficiency, optimizing firewood usage and reducing consumption | Advanced combustion system for a clean and effective burn | Modern and elegant design, adaptable to various interior styles | High-quality materials ensuring durability and resistance | Easy maintenance with convenient access for cleaning and control | Large heating capacity, ideal for medium to large spaces.",
+      "benefits": "Eco-friendly and economical, thanks to low firewood consumption and high thermal efficiency | Low CO2 emissions for a cleaner and healthier environment | Constant and comfortable heat, ideal for keeping your home warm during cold months | Stylish and functional design that combines energy efficiency with a modern aesthetic | Guaranteed durability due to the robustness of the materials used.",
+      "dimensions": "Height: 95 cm | Width: 55 cm | Depth: 45 cm",
+      "moreImgs": [
+        "/assets/mbs-vesta-1.webp",
+        "/assets/mbs-vesta-2.webp"
+      ]
+    },
+    {
+      "title": "Olimp Wood Stove",
+      "description": "A modern and efficient wood stove designed for sustainable and cost-effective heating.",
+      "price": "€825.00",
+      "image": "/assets/Stove/stove7.webp",
+      "discount": 12,
+      "offer": "No current offer",
+      "category": "Wood Stoves",
+      "fullDescription": "The Olimp Wood Stove is a perfect choice for those seeking efficient, eco-friendly, and cost-effective home heating. With an elegant and modern design, this wood stove is made of high-quality materials, ensuring durability and excellent thermal performance. Its advanced combustion system maximizes efficiency, providing consistent and comfortable heat while minimizing emissions and firewood consumption.",
+      "characteristics": "Modern and elegant design, suitable for various décor styles | High energy efficiency, ensuring optimal firewood usage | Advanced combustion system reducing emissions and improving performance | High-quality materials guaranteeing longevity and resistance | Easy maintenance with accessible cleaning and control features | Perfect size for heating medium to large spaces.",
+      "benefits": "Eco-friendly and economical, making the most of firewood energy while reducing consumption | Consistent thermal comfort, keeping your home warm during the coldest months | Low CO2 emissions for a cleaner environment | Compact and functional design that saves space while providing high efficiency | Easy operation with simple controls for quick and precise temperature adjustments.",
+      "dimensions": "H: 90 cm, W: 60 cm, D: 40 cm",
+      "moreImgs": [
+        "/assets/olimp-wood-stove-1.webp",
+        "/assets/olimp-wood-stove-2.webp"
+      ]
+    },
+    {
+      "title": "Olimpia Wood Stove",
+      "description": "A high-performance wood stove with elegant design and durable construction.",
+      "price": "€899.00",
+      "image": "/assets/Stove/stove8.webp",
+      "discount": 18,
+      "offer": "No current offer",
+      "category": "Wood Stoves",
+      "fullDescription": "The Olimpia Wood Stove is a high-performance heating solution that combines efficiency, design, and durability. With its elegant and robust construction, the Olimpia provides excellent heating for your home, creating a warm and cozy atmosphere. Its advanced combustion system ensures an efficient firewood burn, optimizing fuel usage while reducing CO2 emissions.",
+      "characteristics": "Powerful heating capacity, ideal for medium to large spaces | Efficient combustion system maximizing firewood performance and reducing consumption | Elegant and modern design, built with high-quality materials for durability and strength | Low CO2 emissions, contributing to a cleaner and healthier environment | Large heating capacity, ensuring long-lasting warmth | Easy maintenance with convenient access for cleaning and control.",
+      "benefits": "Enhanced energy efficiency, utilizing firewood more effectively and reducing fuel costs | Constant thermal comfort, keeping your home warm and inviting throughout the day | Eco-friendly and economical, thanks to its low firewood consumption and high efficiency | Durable and resistant construction, ensuring long-term use | Stylish and functional design that adds elegance and warmth to your home | Easy to use and maintain, with accessible and user-friendly controls.",
+      "dimensions": "H: 100 cm, W: 70 cm, D: 45 cm",
+      "moreImgs": [
+        "/assets/olimpia-wood-stove-1.webp",
+        "/assets/olimpia-wood-stove-2.webp"
+      ]
+    },
+    {
+      "title": "Thermo Vulkan Plus Wood Stove",
+      "description": "High-end wood stove with integrated boiler system for efficient heating and hot water supply.",
+      "price": "€1250.00",
+      "image": "/assets/Stove/stove9.webp",
+      "discount": 15,
+      "offer": "No current offer",
+      "category": "Wood Stoves",
+      "fullDescription": "The Thermo Vulkan Plus Wood Stove is a premium stove that combines elegant design with excellent energy efficiency. Ideal for those seeking a comprehensive heating solution, this stove not only warms the room but also provides hot water for central heating or domestic use, thanks to its built-in boiler system.",
+      "characteristics": "Integrated boiler system for heating water for central heating and domestic use | High energy efficiency, maximizing the combustion energy of wood | Robust and modern design that suits various décor styles | Low CO2 emissions for a cleaner and eco-friendly environment | Easy maintenance and use, with a simple cleaning system and intuitive controls | Large heat output, capable of warming large spaces quickly and efficiently | High-quality steel construction, ensuring durability and long-lasting performance.",
+      "benefits": "Energy and fuel savings, thanks to its efficient combustion system | Consistent thermal comfort, providing a warm and cozy environment all day | Eco-friendly solution with low emissions and clean combustion | Comprehensive heating system, heating both air and water for domestic needs | Long-lasting reliability, with high-quality materials ensuring durability | Easy to use and maintain, with a practical design for cleaning and control.",
+      "dimensions": "H: 120 cm, W: 80 cm, D: 50 cm",
+      "moreImgs": [
+        "/assets/thermo-vulkan-plus-1.webp",
+        "/assets/thermo-vulkan-plus-2.webp"
+      ]
+    },
+    {
+      "title": "Vulkan 14kW Wood Stove",
+      "description": "Powerful and efficient wood stove with modern design and advanced combustion system.",
+      "price": "€890.00",
+      "image": "/assets/Stove/stove3-10.webp",
+      "discount": 10,
+      "offer": "No current offer",
+      "category": "Wood Stoves",
+      "fullDescription": "The Vulkan 14kW Wood Stove is an excellent choice for those looking for powerful and efficient heating. With its sturdy and modern design, this stove provides outstanding heating capacity, ideal for medium to large spaces. Its advanced combustion system optimizes wood burning, ensuring high energy efficiency and even heat distribution.",
+      "characteristics": "14 kW thermal power, suitable for medium and large spaces | Efficient combustion system, maximizing wood performance and reducing consumption | Modern and robust design, made with high-quality materials for durability | Low CO2 emissions, promoting a cleaner and eco-friendly environment | Large heating capacity, providing constant warmth throughout the day | Easy maintenance, with an accessible design for cleaning and control.",
+      "benefits": "Superior energy efficiency, reducing wood consumption while maintaining high thermal output | Consistent thermal comfort, keeping your home warm evenly and for extended periods | Environmentally friendly, with low emissions and a clean-burning process | Long-term durability, built with robust materials for a long lifespan | Elegant and functional design, fitting different home décors | Easy operation and maintenance, featuring intuitive and accessible controls.",
+      "dimensions": "H: 100 cm, W: 75 cm, D: 45 cm",
+      "moreImgs": [
+        "/assets/vulkan-14kw-1.webp",
+        "/assets/vulkan-14kw-2.webp"
+      ]
+    },
+    {
+      "title": "Olymp Soapstone Wood Stove",
+      "description": "Elegant soapstone wood stove with high thermal efficiency and long-lasting heat retention.",
+      "price": "€1450.00",
+      "image": "/assets/Stove/stove11.webp",
+      "discount": 20,
+      "offer": "No current offer",
+      "category": "Soapstone Stoves",
+      "fullDescription": "The Olymp Soapstone Wood Stove is the ideal choice for those seeking efficient, long-lasting, and eco-friendly heating. Made with soapstone, a natural material known for its exceptional thermal properties, this stove offers a constant and prolonged heat distribution, keeping your home warm even after the fire has gone out.",
+      "characteristics": "Constructed with soapstone, known for its excellent heat storage properties | Even heat distribution, ensuring a comfortable and stable temperature | High energy efficiency, storing and releasing heat gradually over hours | Advanced combustion system, reducing wood consumption and emissions | Modern and stylish design, fitting into various interior styles | Low CO2 emissions, making it an environmentally friendly heating solution | Easy maintenance, with simple access for cleaning and control.",
+      "benefits": "Prolonged thermal comfort, as soapstone retains and slowly releases heat | Superior energy efficiency, requiring less wood while maintaining warmth for longer | Eco-friendly and cost-effective, with a clean combustion process that minimizes emissions | Attractive and functional design, blending aesthetics with high performance | Durable and sturdy, made from high-quality soapstone for longevity | Easy to use and maintain, with accessible controls and an intuitive design.",
+      "dimensions": "H: 130 cm, W: 85 cm, D: 50 cm",
+      "moreImgs": [
+        "/assets/olymp-soapstone-1.webp",
+        "/assets/olymp-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "Olympia Soapstone Stove",
+      "description": "High-performance soapstone stove with advanced combustion and efficient heat retention.",
+      "price": "€1600.00",
+      "image": "/assets/Stove/stove12.webp",
+      "discount": 18,
+      "offer": "No current offer",
+      "category": "Soapstone Stoves",
+      "fullDescription": "The Olympia Soapstone Stove is a high-performance heating solution for those looking for an eco-friendly, efficient, and long-lasting option. Made from soapstone, a material renowned for its thermal properties, this stove combines elegance and functionality. Soapstone uniquely stores and distributes heat evenly over long periods, ensuring a steady and comfortable warmth.",
+      "characteristics": "Soapstone material, known for its ability to store and distribute heat efficiently | Modern and stylish design, suitable for any home décor | High energy efficiency, optimizing wood usage and maximizing thermal output | Advanced combustion system, reducing emissions and improving wood-burning efficiency | Large heat retention capacity, providing warmth even after the fire has gone out | Easy maintenance, with accessible design for cleaning and control.",
+      "benefits": "Exceptional thermal efficiency, providing long-lasting and even heat | Eco-friendly and cost-effective, reducing emissions and wood consumption | Elegant and functional design, complementing various interior styles | Low CO2 emissions, contributing to a cleaner and healthier environment | Guaranteed durability, with soapstone's robust and resistant properties | Consistent comfort, maintaining warmth even after the fire is out.",
+      "dimensions": "H: 135 cm, W: 90 cm, D: 55 cm",
+      "moreImgs": [
+        "/assets/olympia-soapstone-1.webp",
+        "/assets/olympia-soapstone-2.webp"
+      ]
+    }
+  ]
+}

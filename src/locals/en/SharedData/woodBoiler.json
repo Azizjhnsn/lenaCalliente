@@ -1,0 +1,89 @@
+{
+  "boilers": [
+{
+      "title": "Solid Wood Boiler 25 kW",
+      "description": "Efficient and eco-friendly heating solution for medium to large spaces.",
+      "price": "€1250.00",
+      "image": "/assets/boiler.webp",
+      "discount": 15,
+      "offer": "No current offer",
+      "category": "Wood Boilers",
+      "fullDescription": "The Solid Wood Boiler 25 kW is the ideal choice for those seeking efficient, cost-effective, and environmentally friendly heating. With a power output of 25 kW, this boiler is perfect for heating large spaces and providing continuous hot water. Its robust design and optimized combustion system ensure high energy efficiency, reducing wood consumption and pollutant emissions.",
+      "characteristics": "Power: 25 kW, ideal for centralized heating and domestic hot water in medium or large spaces | High-quality materials ensuring durability and resistance | Optimized energy efficiency with low wood consumption and minimal emissions | Advanced combustion system for clean and effective burning | Compact and robust design, suitable for residential and commercial installations | Low maintenance, with easy access for cleaning and control.",
+      "benefits": "High thermal efficiency, providing constant and cost-effective heating | Eco-friendly, using wood as a renewable and sustainable energy source | Easy to operate, with an intuitive and simple control system | Low CO2 emissions, reducing environmental impact | Ideal for homes, chalets, and businesses, with sufficient heating capacity for large spaces.",
+      "dimensions": "Height: 120cm, Width: 80cm, Depth: 60cm",
+      "moreImgs": "/assets/boiler-25kw-2.webp"
+    },
+    {
+      "title": "Solid Wood Boiler 35 kW",
+      "description": "Powerful and efficient heating solution for large homes and commercial spaces.",
+      "price": "€1850.00",
+      "image": "/assets/boiler.webp",
+      "discount": 12,
+      "offer": "No current offer",
+      "category": "Wood Boilers",
+      "fullDescription": "The Solid Wood Boiler 35 kW is the perfect solution for those who need a powerful and efficient heating source for large spaces. With a 35 kW output, this boiler is designed to provide centralized heating for large homes, chalets, warehouses, or small businesses, as well as hot water production. Thanks to its efficient combustion system, it optimizes wood usage and significantly reduces CO2 emissions, making this boiler an eco-friendly and cost-effective option.",
+      "characteristics": "Power: 35 kW, ideal for centralized heating in large spaces and hot water production | Advanced energy efficiency, maximizing wood performance and reducing consumption | Robust and durable construction, made from high-quality materials ensuring a long lifespan | Optimized combustion system, reducing CO2 emissions and minimizing environmental impact | Easy maintenance, with an accessible design for cleaning and control | Adjustable temperature control, allowing precise heating and hot water adjustment.",
+      "benefits": "High thermal efficiency, providing consistent heating and hot water efficiently | Eco-friendly, using wood as a renewable energy source with low CO2 emissions | Ideal for large spaces, offering centralized heating for homes, chalets, or businesses | Reduced energy costs, thanks to its optimized wood usage | Easy operation and maintenance, with simple controls and an efficient cleaning system.",
+      "dimensions": "Height: 130cm, Width: 90cm, Depth: 70cm",
+      "moreImgs": "/assets/boiler-35kw-2.webp"
+    },
+    {
+      "title": "Solid Wood Boiler 50 kW",
+      "description": "High-performance heating system for industrial and commercial applications.",
+      "price": "€2750.00",
+      "image": "/assets/boiler.webp",
+      "discount": 10,
+      "offer": "No current offer",
+      "category": "Wood Boilers",
+      "fullDescription": "The Solid Wood Boiler 50 kW is the ideal option for those looking for a powerful, efficient, and eco-friendly heating solution for large spaces. With a power of 50 kW, this boiler is designed to provide centralized heating for large homes, commercial facilities, or even industrial warehouses, as well as constant hot water supply.",
+      "characteristics": "Power: 50 kW, perfect for centralized heating of large spaces and hot water production | Efficient combustion system, maximizing wood performance and reducing consumption | Low CO2 emissions, contributing to a cleaner environment | Robust construction, made from high-quality materials ensuring long durability | Easy maintenance, with convenient access for cleaning and control | Adjustable temperature control, allowing heating to be tailored to space requirements.",
+      "benefits": "High energy efficiency, optimizing wood usage and reducing heating costs | Ideal for heating large spaces, providing constant heat and efficient hot water supply | Eco-friendly, using wood as a renewable energy source while minimizing emissions | Long-term savings, thanks to its high fuel efficiency | Guaranteed durability, with a high-resistance construction for intensive and prolonged use | Consistent comfort, with even heat distribution maintaining spaces warm throughout the day.",
+      "dimensions": "Height: 140cm, Width: 100cm, Depth: 80cm",
+      "moreImgs": "/assets/boiler-50kw-2.webp"
+    },
+    {
+      "title": "Solid Wood Boiler 40 kW",
+      "description": "Durable and high-efficiency heating system with solid wood construction.",
+      "price": "€2350.00",
+      "image": "/assets/boiler.webp",
+      "discount": 14,
+      "offer": "No current offer",
+      "category": "Wood Boilers",
+      "fullDescription": "The Solid Wood Boiler 40 kW is the perfect solution for those looking for a powerful, efficient, and eco-friendly heating source for large spaces. With a power of 40 kW, this boiler is ideal for centralized heating in large homes, chalets, warehouses, or even small businesses. Its robust design and advanced combustion system ensure optimal performance, maximizing energy efficiency and minimizing CO2 emissions.",
+      "characteristics": "Power: 40 kW, perfect for heating large spaces and providing domestic hot water | Solid wood construction, ensuring resistance and durability | Advanced combustion system, maximizing energy efficiency and reducing wood consumption | Low CO2 emissions, contributing to environmental protection | Adjustable temperature control to adapt heating to specific needs | Easy maintenance, with an accessible design for cleaning and boiler control.",
+      "benefits": "Exceptional energy efficiency, optimizing wood use and reducing heating costs | Eco-friendly and sustainable, using wood as a renewable fuel | Ideal for centralized heating, providing consistent heat throughout the home or space | Low environmental impact, with a combustion system that minimizes emissions | Durability and resistance, thanks to its high-quality solid wood construction.",
+      "dimensions": "Height: 135cm, Width: 85cm, Depth: 75cm",
+      "moreImgs": "/assets/boiler-40kw-2.webp"
+    },
+    {
+      "title": "Solid Wood Chair with 20 kW Heating",
+      "description": "A comfortable and innovative solid wood chair with an integrated 20 kW heating system for a warm and cozy experience.",
+      "price": "€599.00",
+      "image": "/assets/boiler.webp",
+      "discount": 10,
+      "offer": "No current offer",
+      "category": "Furniture",
+      "fullDescription": "The Solid Wood Chair with 20 kW Heating is an innovative and comfortable choice for those who want to enjoy warmth while relaxing. With a 20 kW power output, this chair combines the comfort of solid wood furniture with an efficient heating system, providing a constant and enveloping heat experience.",
+      "characteristics": "Heating power: 20 kW for intense and efficient warmth | Material: High-quality solid wood for durability and resistance | Integrated heating system for uniform heat distribution | Elegant and modern design that adapts to various decor styles | Adjustable temperature control to customize warmth levels | Low energy consumption for efficient heating performance.",
+      "benefits": "Personalized thermal comfort, perfect for relaxing in winter | Energy-efficient heating system with high performance | Eco-friendly and sustainable, made from responsibly sourced wood | Easy to use with simple controls for temperature adjustment | Attractive and functional design, combining elegance with advanced heating technology.",
+      "dimensions": "Standard chair size with ergonomic design",
+      "moreImgs": "/assets/solid-wood-heated-chair-2.webp"
+    },
+    {
+      "title": "Solid Wood Firewood Stove – 30 kW",
+      "description": "A powerful and eco-friendly solid wood stove with 30 kW output, ideal for heating large spaces efficiently.",
+      "price": "€899.00",
+      "image": "/assets/boiler.webp",
+      "discount": 15,
+      "offer": "No current offer",
+      "category": "Heating",
+      "fullDescription": "The Solid Wood Firewood Stove – 30 kW is the perfect solution for those looking for a powerful, efficient, and eco-friendly heating source for their home. With a 30 kW power output, this stove is designed to provide effective heating for large spaces, making it ideal for homes, chalets, or commercial areas.",
+      "characteristics": "Power: 30 kW, suitable for heating large spaces or centralized heating | Material: Robust solid wood construction with high-quality components | High energy efficiency, ensuring optimal use of firewood with minimal waste | Functional and elegant design, fitting various interior styles | Low CO2 emissions, contributing to an eco-friendly heating solution | Ideal for stoves, boilers, and large-capacity heating systems.",
+      "benefits": "High thermal performance for long-lasting and consistent warmth | Eco-friendly and sustainable, using firewood as a renewable energy source | Easy to operate and maintain, with an accessible control system | Low emissions and efficient combustion, reducing environmental impact | Comfort and autonomy, keeping your home warm throughout the winter.",
+      "dimensions": "Standard stove size for large space heating",
+      "moreImgs": "/assets/solid-wood-stove-30kw-2.webp"
+    }
+
+  ]
+}

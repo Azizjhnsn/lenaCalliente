@@ -1,0 +1,208 @@
+{
+  "stoves": [
+    {
+      "title": "Poêle à bois MBS Eva 3 côtés",
+      "description": "Un poêle à bois moderne et élégant avec trois côtés en verre pour une vue imprenable sur le feu.",
+      "price": "1299,00 €",
+      "image": "/assets/Stove/stove1.webp",
+      "discount": 10,
+      "offer": "Offre limitée dans le temps",
+      "category": "Poêles à bois",
+      "fullDescription": "Le poêle à bois MBS Eva 3 côtés est une solution de chauffage stylée et économe en énergie. Son design en verre sur trois côtés permet de profiter du feu sous plusieurs angles, créant une atmosphère chaleureuse et visuellement attrayante dans votre maison. Ce poêle optimise la combustion du bois pour une combustion propre et efficace, réduisant la consommation de combustible et les émissions.",
+      "characteristics": "Design en verre sur trois côtés pour une vue panoramique du feu | Haute efficacité énergétique avec un système de combustion avancé | Fabriqué à partir de matériaux de haute qualité et durables | Faibles émissions de CO2 pour une option de chauffage écologique | Grande capacité de chauffage, adaptée aux espaces moyens à grands | Facile d'entretien avec un accès pratique pour le nettoyage.",
+      "benefits": "Efficacité énergétique améliorée, réduisant la consommation de bois | Design élégant et fonctionnel qui complète tout intérieur | Chauffage constant et uniforme pour un confort optimal | Économies à long terme grâce à une utilisation efficace du combustible | Construction durable garantissant une longue durée de vie | Facile à utiliser et à entretenir avec des commandes conviviales.",
+      "dimensions": "Hauteur : 100 cm | Largeur : 60 cm | Profondeur : 50 cm",
+      "moreImgs": [
+        "/assets/mbs-eva-1.webp",
+        "/assets/mbs-eva-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois MBS Thermo In avec chaudière",
+      "description": "Un poêle à bois à haute efficacité avec une chaudière intégrée pour le chauffage central et le chauffage de la pièce.",
+      "price": "1899,00 €",
+      "image": "/assets/Stove/stove2.webp",
+      "discount": 15,
+      "offer": "Spécial hiver",
+      "category": "Poêles à bois avec chaudière",
+      "fullDescription": "Le poêle à bois MBS Thermo In avec chaudière est une solution de chauffage idéale pour ceux qui recherchent une manière écologique et efficace de chauffer à la fois leur espace de vie et leur système de chauffage central. Il intègre une chaudière à haute efficacité qui distribue la chaleur aux radiateurs ou aux systèmes de chauffage par le sol, assurant une chaleur optimale dans toute votre maison.",
+      "characteristics": "Système de chauffage double pour l'air et le chauffage central | Grande puissance thermique, idéale pour les grands espaces | Technologie de combustion avancée pour une combustion optimisée du bois | Faibles émissions de CO2 pour le respect de l'environnement | Design robuste et moderne avec des matériaux premium | Facile d'entretien avec un système de nettoyage accessible.",
+      "benefits": "Efficacité énergétique supérieure avec une consommation réduite de bois | Chauffage uniforme pour l'espace et le système d'eau central | Écologique avec une empreinte carbone minimisée | Construction durable pour des performances à long terme | Design moderne et attrayant s'adaptant à divers styles de maisons | Fonctionnement et entretien simples.",
+      "dimensions": "Hauteur : 120 cm | Largeur : 65 cm | Profondeur : 55 cm",
+      "moreImgs": [
+        "/assets/mbs-thermo-in-1.webp",
+        "/assets/mbs-thermo-in-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois Thermo Vulcan 18 kW avec chaudière",
+      "description": "Un poêle à bois puissant de 18 kW avec une chaudière intégrée pour le chauffage domestique et l'alimentation en eau chaude.",
+      "price": "2150,00 €",
+      "image": "/assets/Stove/stove3-10.webp",
+      "discount": 12,
+      "offer": "Offre de chauffage écologique",
+      "category": "Poêles à bois avec chaudière",
+      "fullDescription": "Le poêle à bois Thermo Vulcan 18 kW avec chaudière est une solution de chauffage très efficace et écologique. Conçu pour fournir à la fois le chauffage de l'espace et l'eau chaude pour les systèmes de chauffage central, il assure une chaleur constante et économique dans votre maison. Avec une puissance de sortie de 18 kW, il est parfait pour les foyers de taille moyenne à grande.",
+      "characteristics": "Puissance de chaudière de 18 kW, idéale pour les espaces moyens à grands | Système de chauffage combiné air et eau | Haute efficacité énergétique avec une combustion optimisée du bois | Design solide et stylé adapté à toute maison | Facile à utiliser et à entretenir avec des commandes conviviales | Fabriqué à partir de matériaux premium pour une durabilité à long terme.",
+      "benefits": "Chauffage économique, réduisant les coûts énergétiques | Écologique avec de faibles émissions de CO2 | Fournit à la fois le chauffage domestique et l'eau chaude | Facile à installer et à utiliser | Longue durée de vie grâce à une construction de haute qualité | Distribution de chaleur confortable et uniforme.",
+      "dimensions": "Hauteur : 130 cm | Largeur : 70 cm | Profondeur : 60 cm",
+      "moreImgs": [
+        "/assets/thermo-vulcan-1.webp",
+        "/assets/thermo-vulcan-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois Hunter 14B",
+      "description": "Un poêle à bois puissant et efficace conçu pour chauffer des espaces moyens à grands.",
+      "price": "1499,00 €",
+      "image": "/assets/Stove/stove4-5.webp",
+      "discount": 8,
+      "offer": "Stock limité",
+      "category": "Poêles à bois",
+      "fullDescription": "Le poêle à bois Hunter 14B est un excellent choix pour ceux qui recherchent une solution de chauffage puissante et efficace. Avec son design moderne et robuste, ce poêle assure une excellente distribution de la chaleur, le rendant idéal pour les espaces moyens à grands. Son système de combustion avancé maximise l'efficacité du bois tout en réduisant les émissions.",
+      "characteristics": "Grande puissance de chauffage, adaptée aux espaces moyens à grands | Système de combustion efficace pour une utilisation optimisée du bois | Design stylé et robuste adapté à toute décoration intérieure | Matériaux premium pour la durabilité et la longévité | Faibles émissions de CO2, respectueux de l'environnement | Facile à entretenir et à nettoyer avec des composants accessibles.",
+      "benefits": "Efficacité énergétique avec une faible consommation de bois | Écologique avec des émissions réduites | Design élégant et fonctionnel | Longue durée de vie avec des matériaux de haute qualité | Distribution de chaleur constante et confortable | Facile à utiliser et à entretenir.",
+      "dimensions": "Hauteur : 110 cm | Largeur : 62 cm | Profondeur : 50 cm",
+      "moreImgs": [
+        "/assets/hunter-14b-1.webp",
+        "/assets/hunter-14b-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois Hunter 80B",
+      "description": "Un poêle à bois haute performance conçu pour un chauffage domestique efficace et économique.",
+      "price": "899,00 €",
+      "image": "/assets/Stove/stove4-5.webp",
+      "discount": 15,
+      "offer": "Aucune offre actuelle",
+      "category": "Poêles à bois",
+      "fullDescription": "Le poêle à bois Hunter 80B est une solution de chauffage haute performance, parfaite pour ceux qui souhaitent chauffer leur maison de manière efficace et économique. Son système de combustion puissant et son design robuste assurent une excellente distribution de la chaleur, offrant un confort thermique constant dans les grands ou moyens espaces. Il optimise l'utilisation du bois de chauffage, garantissant une combustion plus propre et une consommation de combustible réduite, ce qui en fait un choix écologique et économique.",
+      "characteristics": "Grande puissance de chauffage, idéale pour les grands et moyens espaces | Système de combustion efficace réduisant la consommation de bois de chauffage et les émissions | Design élégant et robuste, construit avec des matériaux de haute qualité pour la durabilité | Faibles émissions de CO2, contribuant à un environnement plus propre | Grande capacité de chauffage, fournissant une chaleur constante pendant de longues heures | Entretien facile avec un accès simple pour le nettoyage et le contrôle.",
+      "benefits": "Efficacité énergétique avec un système de combustion optimisé maximisant l'efficacité du bois de chauffage | Confort thermique constant, gardant votre maison chaude et douillette toute la journée | Écologique grâce à de faibles émissions et une consommation réduite de bois de chauffage | Design attrayant et fonctionnel adapté à divers styles intérieurs | Durable et résistant, construit avec des matériaux solides pour une longue durée de vie | Facile à utiliser et à entretenir avec des commandes accessibles et une opération simple.",
+      "dimensions": "Hauteur : 105 cm | Largeur : 60 cm | Profondeur : 55 cm",
+      "moreImgs": [
+        "/assets/hunter-80b-1.webp",
+        "/assets/hunter-80b-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois MBS Vesta",
+      "description": "Un poêle à bois écologique et à haute efficacité avec un design moderne.",
+      "price": "759,00 €",
+      "image": "/assets/Stove/stove6.webp",
+      "discount": 10,
+      "offer": "Aucune offre actuelle",
+      "category": "Poêles à bois",
+      "fullDescription": "Le poêle à bois MBS Vesta est une solution de chauffage idéale pour ceux qui recherchent efficacité et écologie. Avec un design élégant et fonctionnel, le MBS Vesta offre des performances thermiques élevées, assurant une chaleur constante et confortable dans votre maison. Son système de combustion avancé optimise l'utilisation du bois de chauffage, réduisant à la fois la consommation et les émissions, ce qui en fait un choix écologique et économique.",
+      "characteristics": "Haute efficacité énergétique, optimisant l'utilisation du bois de chauffage et réduisant la consommation | Système de combustion avancé pour une combustion propre et efficace | Design moderne et élégant, adaptable à divers styles intérieurs | Matériaux de haute qualité garantissant durabilité et résistance | Entretien facile avec un accès pratique pour le nettoyage et le contrôle | Grande capacité de chauffage, idéale pour les espaces moyens à grands.",
+      "benefits": "Écologique et économique, grâce à une faible consommation de bois de chauffage et une haute efficacité thermique | Faibles émissions de CO2 pour un environnement plus propre et plus sain | Chaleur constante et confortable, idéale pour garder votre maison au chaud pendant les mois froids | Design stylé et fonctionnel combinant efficacité énergétique et esthétique moderne | Durabilité garantie grâce à la robustesse des matériaux utilisés.",
+      "dimensions": "Hauteur : 95 cm | Largeur : 55 cm | Profondeur : 45 cm",
+      "moreImgs": [
+        "/assets/mbs-vesta-1.webp",
+        "/assets/mbs-vesta-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois Olimp",
+      "description": "Un poêle à bois moderne et efficace conçu pour un chauffage durable et économique.",
+      "price": "825,00 €",
+      "image": "/assets/Stove/stove7.webp",
+      "discount": 12,
+      "offer": "Aucune offre actuelle",
+      "category": "Poêles à bois",
+      "fullDescription": "Le poêle à bois Olimp est le choix parfait pour ceux qui recherchent un chauffage domestique efficace, écologique et économique. Avec un design élégant et moderne, ce poêle à bois est fabriqué à partir de matériaux de haute qualité, garantissant durabilité et excellentes performances thermiques. Son système de combustion avancé maximise l'efficacité, fournissant une chaleur constante et confortable tout en minimisant les émissions et la consommation de bois de chauffage.",
+      "characteristics": "Design moderne et élégant, adapté à divers styles de décoration | Haute efficacité énergétique, assurant une utilisation optimale du bois de chauffage | Système de combustion avancé réduisant les émissions et améliorant les performances | Matériaux de haute qualité garantissant longévité et résistance | Entretien facile avec des fonctionnalités de nettoyage et de contrôle accessibles | Taille parfaite pour chauffer des espaces moyens à grands.",
+      "benefits": "Écologique et économique, tirant le meilleur parti de l'énergie du bois de chauffage tout en réduisant la consommation | Confort thermique constant, gardant votre maison au chaud pendant les mois les plus froids | Faibles émissions de CO2 pour un environnement plus propre | Design compact et fonctionnel économisant de l'espace tout en offrant une haute efficacité | Fonctionnement facile avec des commandes simples pour des ajustements de température rapides et précis.",
+      "dimensions": "H : 90 cm, L : 60 cm, P : 40 cm",
+      "moreImgs": [
+        "/assets/olimp-wood-stove-1.webp",
+        "/assets/olimp-wood-stove-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois Olimpia",
+      "description": "Un poêle à bois haute performance avec un design élégant et une construction durable.",
+      "price": "899,00 €",
+      "image": "/assets/Stove/stove8.webp",
+      "discount": 18,
+      "offer": "Aucune offre actuelle",
+      "category": "Poêles à bois",
+      "fullDescription": "Le poêle à bois Olimpia est une solution de chauffage haute performance qui combine efficacité, design et durabilité. Avec sa construction élégante et robuste, l'Olimpia offre un excellent chauffage pour votre maison, créant une atmosphère chaleureuse et accueillante. Son système de combustion avancé assure une combustion efficace du bois de chauffage, optimisant l'utilisation du combustible tout en réduisant les émissions de CO2.",
+      "characteristics": "Grande capacité de chauffage, idéale pour les espaces moyens à grands | Système de combustion efficace maximisant les performances du bois de chauffage et réduisant la consommation | Design élégant et moderne, construit avec des matériaux de haute qualité pour la durabilité et la robustesse | Faibles émissions de CO2, contribuant à un environnement plus propre et plus sain | Grande capacité de chauffage, assurant une chaleur durable | Entretien facile avec un accès pratique pour le nettoyage et le contrôle.",
+      "benefits": "Efficacité énergétique améliorée, utilisant le bois de chauffage plus efficacement et réduisant les coûts de combustible | Confort thermique constant, gardant votre maison chaude et accueillante toute la journée | Écologique et économique, grâce à sa faible consommation de bois de chauffage et à sa haute efficacité | Construction durable et résistante, garantissant une utilisation à long terme | Design stylé et fonctionnel ajoutant élégance et chaleur à votre maison | Facile à utiliser et à entretenir, avec des commandes accessibles et conviviales.",
+      "dimensions": "H : 100 cm, L : 70 cm, P : 45 cm",
+      "moreImgs": [
+        "/assets/olimpia-wood-stove-1.webp",
+        "/assets/olimpia-wood-stove-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois Thermo Vulkan Plus",
+      "description": "Poêle à bois haut de gamme avec système de chaudière intégré pour un chauffage et une alimentation en eau chaude efficaces.",
+      "price": "1250,00 €",
+      "image": "/assets/Stove/stove9.webp",
+      "discount": 15,
+      "offer": "Aucune offre actuelle",
+      "category": "Poêles à bois",
+      "fullDescription": "Le poêle à bois Thermo Vulkan Plus est un poêle premium qui combine un design élégant avec une excellente efficacité énergétique. Idéal pour ceux qui recherchent une solution de chauffage complète, ce poêle ne chauffe pas seulement la pièce mais fournit également de l'eau chaude pour le chauffage central ou l'usage domestique, grâce à son système de chaudière intégré.",
+      "characteristics": "Système de chaudière intégré pour chauffer l'eau pour le chauffage central et l'usage domestique | Haute efficacité énergétique, maximisant l'énergie de combustion du bois | Design robuste et moderne adapté à divers styles de décoration | Faibles émissions de CO2 pour un environnement plus propre et écologique | Entretien et utilisation faciles, avec un système de nettoyage simple et des commandes intuitives | Grande puissance de chauffage, capable de chauffer rapidement et efficacement de grands espaces | Construction en acier de haute qualité, garantissant durabilité et performances à long terme.",
+      "benefits": "Économies d'énergie et de combustible, grâce à son système de combustion efficace | Confort thermique constant, offrant un environnement chaud et douillet toute la journée | Solution écologique avec de faibles émissions et une combustion propre | Système de chauffage complet, chauffant à la fois l'air et l'eau pour les besoins domestiques | Fiabilité à long terme, avec des matériaux de haute qualité garantissant la durabilité | Facile à utiliser et à entretenir, avec un design pratique pour le nettoyage et le contrôle.",
+      "dimensions": "H : 120 cm, L : 80 cm, P : 50 cm",
+      "moreImgs": [
+        "/assets/thermo-vulkan-plus-1.webp",
+        "/assets/thermo-vulkan-plus-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois Vulkan 14kW",
+      "description": "Poêle à bois puissant et efficace avec un design moderne et un système de combustion avancé.",
+      "price": "890,00 €",
+      "image": "/assets/Stove/stove3-10.webp",
+      "discount": 10,
+      "offer": "Aucune offre actuelle",
+      "category": "Poêles à bois",
+      "fullDescription": "Le poêle à bois Vulkan 14kW est un excellent choix pour ceux qui recherchent un chauffage puissant et efficace. Avec son design robuste et moderne, ce poêle offre une capacité de chauffage exceptionnelle, idéale pour les espaces moyens à grands. Son système de combustion avancé optimise la combustion du bois, assurant une haute efficacité énergétique et une distribution uniforme de la chaleur.",
+      "characteristics": "Puissance thermique de 14 kW, adaptée aux espaces moyens et grands | Système de combustion efficace, maximisant les performances du bois et réduisant la consommation | Design moderne et robuste, fabriqué avec des matériaux de haute qualité pour la durabilité | Faibles émissions de CO2, favorisant un environnement plus propre et écologique | Grande capacité de chauffage, fournissant une chaleur constante tout au long de la journée | Entretien facile, avec un design accessible pour le nettoyage et le contrôle.",
+      "benefits": "Efficacité énergétique supérieure, réduisant la consommation de bois tout en maintenant une haute puissance thermique | Confort thermique constant, gardant votre maison chaude de manière uniforme et prolongée | Écologique, avec de faibles émissions et un processus de combustion propre | Durabilité à long terme, construit avec des matériaux robustes pour une longue durée de vie | Design élégant et fonctionnel, s'adaptant à différentes décorations intérieures | Fonctionnement et entretien faciles, avec des commandes intuitives et accessibles.",
+      "dimensions": "H : 100 cm, L : 75 cm, P : 45 cm",
+      "moreImgs": [
+        "/assets/vulkan-14kw-1.webp",
+        "/assets/vulkan-14kw-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à bois en stéatite Olymp",
+      "description": "Poêle à bois en stéatite élégant avec une haute efficacité thermique et une longue rétention de chaleur.",
+      "price": "1450,00 €",
+      "image": "/assets/Stove/stove11.webp",
+      "discount": 20,
+      "offer": "Aucune offre actuelle",
+      "category": "Poêles en stéatite",
+      "fullDescription": "Le poêle à bois en stéatite Olymp est le choix idéal pour ceux qui recherchent un chauffage efficace, durable et écologique. Fabriqué en stéatite, un matériau naturel connu pour ses excellentes propriétés thermiques, ce poêle offre une distribution de chaleur constante et prolongée, gardant votre maison au chaud même après l'extinction du feu.",
+      "characteristics": "Construit en stéatite, connue pour ses excellentes propriétés de stockage de la chaleur | Distribution uniforme de la chaleur, assurant une température confortable et stable | Haute efficacité énergétique, stockant et libérant la chaleur progressivement sur plusieurs heures | Système de combustion avancé, réduisant la consommation de bois et les émissions | Design moderne et stylé, s'intégrant à divers styles intérieurs | Faibles émissions de CO2, faisant de lui une solution de chauffage écologique | Entretien facile, avec un accès simple pour le nettoyage et le contrôle.",
+      "benefits": "Confort thermique prolongé, la stéatite retient et libère lentement la chaleur | Efficacité énergétique supérieure, nécessitant moins de bois tout en maintenant la chaleur plus longtemps | Écologique et économique, avec un processus de combustion propre qui minimise les émissions | Design attrayant et fonctionnel, alliant esthétique et haute performance | Durable et robuste, fabriqué à partir de stéatite de haute qualité pour la longévité | Facile à utiliser et à entretenir, avec des commandes accessibles et un design intuitif.",
+      "dimensions": "H : 130 cm, L : 85 cm, P : 50 cm",
+      "moreImgs": [
+        "/assets/olymp-soapstone-1.webp",
+        "/assets/olymp-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle en stéatite Olympia",
+      "description": "Poêle en stéatite haute performance avec combustion avancée et excellente rétention de chaleur.",
+      "price": "1600,00 €",
+      "image": "/assets/Stove/stove12.webp",
+      "discount": 18,
+      "offer": "Aucune offre actuelle",
+      "category": "Poêles en stéatite",
+      "fullDescription": "Le poêle en stéatite Olympia est une solution de chauffage haute performance pour ceux qui recherchent une option écologique, efficace et durable. Fabriqué en stéatite, un matériau réputé pour ses propriétés thermiques, ce poêle combine élégance et fonctionnalité. La stéatite stocke et distribue la chaleur de manière uniforme sur de longues périodes, assurant une chaleur constante et confortable.",
+      "characteristics": "Matériau en stéatite, connu pour sa capacité à stocker et distribuer efficacement la chaleur | Design moderne et stylé, adapté à toute décoration intérieure | Haute efficacité énergétique, optimisant l'utilisation du bois et maximisant la puissance thermique | Système de combustion avancé, réduisant les émissions et améliorant l'efficacité de combustion du bois | Grande capacité de rétention de chaleur, fournissant de la chaleur même après l'extinction du feu | Entretien facile, avec un design accessible pour le nettoyage et le contrôle.",
+      "benefits": "Efficacité thermique exceptionnelle, offrant une chaleur durable et uniforme | Écologique et économique, réduisant les émissions et la consommation de bois | Design élégant et fonctionnel, complétant divers styles intérieurs | Faibles émissions de CO2, contribuant à un environnement plus propre et plus sain | Durabilité garantie, grâce aux propriétés robustes et résistantes de la stéatite | Confort constant, maintenant la chaleur même après l'extinction du feu.",
+      "dimensions": "H : 135 cm, L : 90 cm, P : 55 cm",
+      "moreImgs": [
+        "/assets/olympia-soapstone-1.webp",
+        "/assets/olympia-soapstone-2.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "cook": [
+    {
+      "title": "Caldera de Jabón Termo Magnum",
+      "description": "Caldera de jabón de alta eficiencia para una calefacción doméstica duradera y ecológica.",
+      "price": "€2,450.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 10,
+      "offer": "¡Descuento por tiempo limitado!",
+      "category": "Calderas",
+      "fullDescription": "La Caldera de Jabón Termo Magnum es una solución de calefacción avanzada y eficiente, diseñada para aquellos que buscan un sistema robusto y de alto rendimiento. Fabricada con jabón de alta calidad, esta caldera asegura una acumulación superior de calor y una eficiencia energética óptima. Su avanzado sistema de combustión minimiza el consumo de madera y las emisiones, convirtiéndola en una opción ecológica y rentable.",
+      "characteristics": "Material: Jabón premium para un almacenamiento y liberación de calor eficientes | Sistema de combustión optimizado que reduce el consumo de madera y las emisiones de CO2 | Alta potencia térmica, ideal para grandes espacios y calefacción central | Excelente eficiencia energética que proporciona calefacción constante con menor consumo | Diseño duradero y robusto para un uso a largo plazo | Control de temperatura ajustable para una gestión precisa del calor | Bajas emisiones para una operación respetuosa con el medio ambiente.",
+      "benefits": "Ecológico, utilizando madera renovable con mínimas emisiones | Eficiencia energética excepcional, asegurando una calefacción efectiva con un uso optimizado del combustible | Retención de calor prolongada gracias a las propiedades del jabón | Ahorro de costos, reduciendo la necesidad de recargas frecuentes | Ideal para calefacción centralizada, abasteciendo múltiples habitaciones | Fácil mantenimiento con un diseño accesible para la limpieza y el cuidado.",
+      "dimensions": "Altura: 120 cm | Ancho: 70 cm | Profundidad: 55 cm",
+      "moreImgs": [
+        "/assets/thermo-magnum-soapstone-1.webp",
+        "/assets/thermo-magnum-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "Caldera Termomagnum",
+      "description": "Caldera de alto rendimiento diseñada para la calefacción de grandes espacios con combustión ecológica.",
+      "price": "€2,200.00",
+      "image": "/assets/Cook/cook2.webp",
+      "discount": 12,
+      "offer": "¡Oferta especial de invierno!",
+      "category": "Calderas",
+      "fullDescription": "La Caldera Termomagnum es una solución de calefacción de alta eficiencia diseñada para proporcionar calor duradero y respetuoso con el medio ambiente. Con un diseño robusto y tecnología avanzada de combustión, optimiza la quema de madera, reduciendo el consumo de combustible y las emisiones de CO2. Es perfecta para grandes hogares, espacios industriales o edificios comerciales, asegurando un calor potente y constante.",
+      "characteristics": "Alta potencia térmica, adecuada para calefacción centralizada en grandes espacios | Eficiencia energética optimizada para maximizar el uso de la madera y minimizar los residuos | Sistema de combustión avanzado para una quema limpia y efectiva | Construcción sólida y duradera con materiales de alta calidad | Control de temperatura ajustable para necesidades de calefacción adaptables | Fácil mantenimiento con componentes de limpieza accesibles.",
+      "benefits": "Eficiente y ahorrador de costos, ofreciendo más calor con menos madera | Ecológico con bajas emisiones de CO2 | Perfecto para calefacción central, manteniendo el calor en múltiples zonas | Retención de calor prolongada para un confort continuo | Duradero y confiable para un uso extendido | Operación fácil de usar con controles intuitivos.",
+      "dimensions": "Altura: 130 cm | Ancho: 75 cm | Profundidad: 60 cm",
+      "moreImgs": [
+        "/assets/termomagnum-boiler-1.webp",
+        "/assets/termomagnum-boiler-2.webp"
+      ]
+    },
+    {
+      "title": "Caldera Estufa Super Thermo Magnum",
+      "description": "Caldera de estufa de leña de doble función que proporciona calefacción de habitaciones y agua caliente para calefacción central.",
+      "price": "€2,800.00",
+      "image": "/assets/Cook/cook3-5.webp",
+      "discount": 15,
+      "offer": "¡Servicio de instalación gratuito!",
+      "category": "Calderas de Estufa",
+      "fullDescription": "La Caldera Estufa Super Thermo Magnum es una solución de calefacción potente y versátil que combina una estufa de leña con una caldera integrada para el suministro de agua caliente. Ideal para grandes espacios, asegura tanto la calefacción del aire como del agua para radiadores o sistemas de calefacción por suelo radiante. Su avanzado sistema de combustión maximiza la eficiencia al tiempo que reduce el consumo de combustible y las emisiones.",
+      "characteristics": "Sistema de calefacción dual para calefacción de aire y agua | Alta potencia térmica, adecuada para grandes espacios y redes de calefacción | Tecnología de combustión avanzada que asegura un consumo de combustible optimizado | Bajas emisiones de CO2 para un rendimiento ecológico | Fácil operación con controles intuitivos | Diseño robusto y eficiente fabricado con materiales de alta calidad.",
+      "benefits": "Alta eficiencia energética, reduciendo el consumo de madera mientras se maximiza el calor | Ahorro a largo plazo con la leña como una fuente de combustible asequible | Calefacción constante y uniforme, asegurando comodidad en todo el hogar | Ecológico con emisiones reducidas y combustión limpia | Duradero y resistente, construido para un rendimiento duradero | Mantenimiento sencillo con características de limpieza de fácil acceso.",
+      "dimensions": "Altura: 110 cm | Ancho: 65 cm | Profundidad: 50 cm",
+      "moreImgs": [
+        "/assets/super-thermo-magnum-1.webp",
+        "/assets/super-thermo-magnum-2.webp"
+      ]
+    },
+    {
+      "title": "Caldera Estufa Super Thermo Magnum de Jabón",
+      "description": "Caldera de estufa de jabón premium que proporciona una retención de calor superior y suministro de agua caliente.",
+      "price": "€3,200.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 18,
+      "offer": "¡Descuento exclusivo en línea!",
+      "category": "Calderas de Estufa",
+      "fullDescription": "La Caldera Estufa Super Thermo Magnum de Jabón es la elección perfecta para aquellos que buscan una solución de calefacción avanzada y ecológica. Fabricada con jabón de alta calidad, retiene y distribuye el calor de manera eficiente mientras proporciona agua caliente para la calefacción central. Su diseño elegante pero robusto se integra perfectamente en cualquier hogar, asegurando tanto comodidad como eficiencia.",
+      "characteristics": "Construida con jabón para una retención de calor prolongada | Sistema de caldera integrado para calentar agua | Alta eficiencia energética, optimizando el consumo de madera | Bajas emisiones de CO2 para una calefacción consciente del medio ambiente | Diseño elegante y duradero que complementa cualquier decoración | Fácil mantenimiento con componentes de limpieza accesibles | Gran capacidad de calefacción, perfecta para múltiples habitaciones.",
+      "benefits": "Confort térmico completo, calentando tanto el aire como el agua de manera eficiente | Ahorro significativo de combustible a través de la combustión optimizada de la madera | Ecológico con un sistema de combustión limpio y bajas emisiones | Durabilidad excepcional gracias a materiales de alta calidad | Ideal para grandes hogares, asegurando calidez constante en múltiples áreas | Controles fáciles de usar para una operación sin esfuerzo.",
+      "dimensions": "Altura: 125 cm | Ancho: 70 cm | Profundidad: 55 cm",
+      "moreImgs": [
+        "/assets/super-thermo-magnum-soapstone-1.webp",
+        "/assets/super-thermo-magnum-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña MBS Magnum",
+      "description": "Estufa de leña de alto rendimiento con diseño moderno y alta eficiencia para calentar espacios grandes y medianos.",
+      "price": "€799.00",
+      "image": "/assets/Cook/cook3-5.webp",
+      "discount": 10,
+      "offer": "¡Oferta por tiempo limitado!",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña MBS Magnum es una estufa de alto rendimiento que combina eficiencia, durabilidad y diseño moderno. Su potente sistema de combustión asegura una calefacción excepcional para espacios grandes y medianos, manteniendo su hogar o lugar de trabajo cálido y confortable durante todo el invierno. La tecnología avanzada optimiza el uso de la madera, reduciendo el consumo de combustible y las emisiones, contribuyendo a un ambiente más limpio.",
+      "characteristics": "Sistema de combustión potente que maximiza la eficiencia y reduce el consumo de madera | Diseño moderno y elegante adaptable a cualquier decoración | Estructura robusta fabricada con materiales de alta calidad para mayor durabilidad | Gran capacidad de calefacción, ideal para espacios medianos y grandes | Bajas emisiones de CO2 gracias a su eficiente sistema de combustión | Fácil mantenimiento con un diseño de limpieza y control accesible.",
+      "benefits": "Eficiencia energética superior, proporcionando calor constante con menor consumo de madera | Ecológico y rentable con bajo impacto ambiental | Durabilidad a largo plazo debido a su construcción de alta calidad | Confort térmico constante, manteniendo su espacio cálido todo el día | Diseño atractivo y funcional, añadiendo un toque elegante a su hogar | Fácil de operar y mantener con controles intuitivos.",
+      "dimensions": "Altura: 90 cm | Ancho: 70 cm | Profundidad: 50 cm",
+      "moreImgs": [
+        "/assets/mbs-magnum-2.webp",
+        "/assets/mbs-magnum-3.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña MBS Magnum de Jabón",
+      "description": "Estufa de leña de alto rendimiento con construcción de jabón para una distribución de calor prolongada y uniforme.",
+      "price": "€999.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 12,
+      "offer": "¡Descuento especial disponible!",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña MBS Magnum de Jabón combina la eficiencia de una estufa de leña con las excepcionales propiedades térmicas del jabón. Fabricada con este material natural, proporciona una distribución de calor uniforme y prolongada, maximizando la eficiencia de combustión y reduciendo el consumo de madera. Su diseño robusto y moderno asegura un rendimiento superior y un ambiente cálido y acogedor para su hogar.",
+      "characteristics": "Fabricada con jabón natural de alta calidad con excelentes propiedades térmicas | Distribución de calor uniforme y prolongada, manteniendo su hogar cálido durante horas | Alta eficiencia de combustión, maximizando el uso de la madera y reduciendo el consumo | Bajas emisiones de CO2 para una solución de calefacción respetuosa con el medio ambiente | Diseño moderno y elegante adaptable a diversos estilos de interior | Fácil mantenimiento con un sistema de limpieza y control de combustión accesible.",
+      "benefits": "Confort térmico constante gracias a la capacidad del jabón para almacenar y liberar calor lentamente | Eficiencia energética superior que reduce el consumo de madera mientras se maximiza el rendimiento térmico | Ecológico y sostenible con bajas emisiones y composición de materiales naturales | Durabilidad a largo plazo fabricada con materiales resistentes de alta calidad | Diseño elegante y funcional que mejora la estética de su hogar | Fácil de usar con controles simples e intuitivos.",
+      "dimensions": "Altura: 95 cm | Ancho: 75 cm | Profundidad: 55 cm",
+      "moreImgs": [
+        "/assets/mbs-magnum-soapstone-2.webp",
+        "/assets/mbs-magnum-soapstone-3.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña Moravia 9103",
+      "description": "Estufa de leña eficiente, ecológica y rentable con un diseño moderno y elegante, ideal para espacios medianos a grandes.",
+      "price": "€699.00",
+      "image": "/assets/Cook/cook7.webp",
+      "discount": 8,
+      "offer": "Sin ofertas actuales",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Moravia 9103 es la elección perfecta para aquellos que buscan una solución de calefacción eficiente, económica y respetuosa con el medio ambiente. Con un diseño moderno y robusto, esta estufa ofrece un rendimiento térmico excelente, ideal para calentar espacios medianos a grandes. Su tecnología avanzada de combustión asegura una quema limpia y eficiente, optimizando el uso de la madera y reduciendo el consumo.",
+      "characteristics": "Alta potencia para calentar espacios medianos a grandes | Tecnología de combustión avanzada que asegura un alto rendimiento y bajas emisiones de CO2 | Diseño moderno y elegante que se adapta a diferentes estilos de decoración | Fabricada con materiales de alta calidad para durabilidad y resistencia | Distribución eficiente del calor, asegurando una temperatura constante y cómoda | Fácil mantenimiento con un sistema de acceso fácil de usar.",
+      "benefits": "Eficiencia energética, maximizando la energía de la madera y reduciendo el consumo | Ecológico y económico con bajas emisiones de CO2 y alta eficiencia de combustión | Diseño compacto y elegante que se integra perfectamente en cualquier hogar | Calidez constante, proporcionando calor uniforme durante todo el día | Durabilidad a largo plazo, asegurando años de uso confiable | Mantenimiento sencillo con un sistema de limpieza accesible.",
+      "dimensions": "Altura: 88 cm | Ancho: 68 cm | Profundidad: 48 cm",
+      "moreImgs": "/assets/moravia-9103-2.webp,/assets/moravia-9103-3.webp"
+    },
+    {
+      "title": "Estufa de Leña Moravia 9112",
+      "description": "Estufa de leña de alto rendimiento con sistema de combustión avanzado, diseñada para grandes espacios y eficiencia energética.",
+      "price": "€849.00",
+      "image": "/assets/Cook/cook8-9.webp",
+      "discount": 9,
+      "offer": "Sin ofertas actuales",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Moravia 9112 es una opción de calefacción de alto rendimiento diseñada para proporcionar confort térmico y eficiencia energética en su hogar. Con un diseño elegante y moderno, esta estufa es perfecta para aquellos que buscan una solución económica, ecológica y efectiva. Su estructura robusta y tecnología avanzada de combustión aseguran un rendimiento superior y una larga vida útil.",
+      "characteristics": "Alta potencia térmica, adecuada para calentar grandes espacios de manera eficiente | Sistema de combustión avanzado que maximiza el uso de la madera y reduce el consumo de combustible | Bajas emisiones de CO2, contribuyendo a un ambiente más limpio y sostenible | Diseño moderno y elegante que se adapta a cualquier estilo de interior | Fácil de usar y mantener con un sistema de limpieza y control sencillo | Construida con materiales de alta calidad que aseguran una larga durabilidad.",
+      "benefits": "Eficiencia energética superior que maximiza la salida de calor mientras reduce el uso de madera | Ahorro en gastos de calefacción al usar una fuente de combustible económica | Calidez continua y agradable que asegura confort térmico durante todo el día | Ecológico y sostenible con bajas emisiones y combustión limpia | Durabilidad confiable con una construcción sólida para un uso prolongado | Mantenimiento sencillo con un sistema de limpieza y mantenimiento accesible.",
+      "dimensions": "Altura: 92 cm | Ancho: 72 cm | Profundidad: 50 cm",
+      "moreImgs": "/assets/moravia-9112-2.webp,/assets/moravia-9112-3.webp"
+    },
+    {
+      "title": "Estufa de Leña Moravia 9112 EX con Caldera",
+      "description": "Estufa de leña de alta gama con caldera integrada para una calefacción eficiente y producción de agua caliente.",
+      "price": "€1250.00",
+      "image": "/assets/Cook/cook8-9.webp",
+      "discount": 10,
+      "offer": "Sin ofertas actuales",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Moravia 9112 EX con Caldera es una solución de calefacción completa y eficiente, perfecta para aquellos que buscan un sistema que proporcione confort térmico y también caliente agua para calefacción central o uso doméstico. Su caldera de alta eficiencia optimiza el consumo de leña, asegurando una utilización máxima de la energía.",
+      "characteristics": "Caldera integrada para calentar agua para calefacción central y uso doméstico | Alta eficiencia de combustión para maximizar el rendimiento de la leña | Bajas emisiones de CO2 para una solución de calefacción ecológica y sostenible | Caldera de acero de alta calidad para una transferencia de calor óptima | Diseño moderno y elegante que se adapta a diversos estilos de interior | Fácil de usar y mantener con controles intuitivos.",
+      "benefits": "Confort térmico completo, proporcionando tanto calefacción de ambiente como agua caliente | Ahorro de energía y costos debido a su alta eficiencia y bajo consumo de leña | Solución ecológica con emisiones reducidas y uso óptimo de recursos | Construcción duradera con materiales de alta calidad para una larga vida útil | Ideal para hogares de todos los tamaños, asegurando calefacción y suministro de agua caliente continuos.",
+      "dimensions": "Altura: 95 cm | Ancho: 75 cm | Profundidad: 52 cm",
+      "moreImgs": "/assets/moravia-9112-ex-2.webp,/assets/moravia-9112-ex-3.webp"
+    },
+    {
+      "title": "Estufa de Leña Moravia 9114",
+      "description": "Estufa de leña de alto rendimiento con combustión potente y diseño moderno y elegante.",
+      "price": "€980.00",
+      "image": "/assets/Cook/cook10.webp",
+      "discount": 8,
+      "offer": "Sin ofertas actuales",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Moravia 9114 es una solución de calefacción de alta eficiencia diseñada para proporcionar calidez de manera ecológica y rentable. Con tecnología avanzada de combustión, asegura una distribución uniforme del calor y un ambiente acogedor durante los meses más fríos.",
+      "characteristics": "Sistema de combustión potente para una eficiencia térmica máxima | Diseño compacto y moderno que se adapta a diversos estilos de interior | Materiales de alta calidad que aseguran durabilidad y resistencia | Gran capacidad de calefacción, adecuada para espacios medianos y grandes | Bajas emisiones de CO2 para un ambiente más limpio | Fácil mantenimiento con acceso sencillo para la limpieza.",
+      "benefits": "Eficiencia energética superior con calor duradero y constante | Ecológico y rentable debido al bajo consumo de leña | Diseño elegante y funcional que se integra perfectamente en cualquier hogar | Alta durabilidad y resistencia para una larga vida útil | Distribución uniforme del calor para un ambiente constantemente cálido | Operación sencilla y mantenimiento fácil de usar.",
+      "dimensions": "Altura: 90 cm | Ancho: 70 cm | Profundidad: 49 cm",
+      "moreImgs": "/assets/moravia-9114-2.webp,/assets/moravia-9114-3.webp"
+    },
+    {
+      "title": "Estufa de Leña Olimpia",
+      "description": "Estufa de leña eficiente y duradera con un diseño moderno y funcional.",
+      "price": "€1100.00",
+      "image": "/assets/Cook/cook11.webp",
+      "discount": 12,
+      "offer": "Sin ofertas actuales",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Olimpia es una solución de calefacción de alta eficiencia diseñada para proporcionar calor constante en su hogar. Con un diseño moderno y práctico, esta estufa es perfecta para aquellos que buscan durabilidad, facilidad de uso y combustión limpia.",
+      "characteristics": "Diseño moderno y elegante que se adapta a cualquier decoración | Alta eficiencia energética para una combustión óptima y liberación prolongada de calor | Bajas emisiones para una solución de calefacción respetuosa con el medio ambiente | Construcción robusta y duradera con materiales de alta calidad | Fácil mantenimiento con un sistema de limpieza accesible | Gran capacidad de calefacción, ideal para espacios amplios o áreas abiertas.",
+      "benefits": "Ahorro de energía a través de una combustión eficiente que maximiza el uso de la leña | Confort térmico constante, proporcionando calor durante todo el día | Sostenible y ecológico con bajas emisiones de CO2 | Durabilidad a largo plazo asegurada por una construcción fuerte y robusta | Diseño funcional con controles intuitivos y fácil mantenimiento.",
+      "dimensions": "Altura: 93 cm | Ancho: 73 cm | Profundidad: 51 cm",
+      "moreImgs": "/assets/olimpia-2.webp,/assets/olimpia-3.webp"
+    },
+    {
+      "title": "Estufa de Leña Temy Plus P 20 con Caldera",
+      "description": "Estufa de leña de 20 kW de alta eficiencia con caldera integrada para calefacción central y agua caliente.",
+      "price": "€1450.00",
+      "image": "/assets/Cook/cook12.webp",
+      "discount": 15,
+      "offer": "Sin ofertas actuales",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Temy Plus P 20 con Caldera es una solución integral para aquellos que buscan una calefacción doméstica eficiente y ecológica. Con una potencia de 20 kW, esta estufa está equipada con una caldera integrada, proporcionando tanto calefacción de ambiente como agua caliente para sistemas de calefacción central.",
+      "characteristics": "Potencia total: 20 kW, adecuada para calefacción centralizada y producción de agua caliente | Sistema de combustión de alta eficiencia para optimizar el uso de la leña | Caldera integrada para calentar agua y calefacción doméstica | Diseño moderno y elegante que complementa cualquier espacio | Bajas emisiones de CO2 para un hogar más respetuoso con el medio ambiente | Materiales de alta calidad para durabilidad y resistencia | Fácil mantenimiento con acceso sencillo para la limpieza y operación.",
+      "benefits": "Eficiencia energética, reduciendo los costos de calefacción y el consumo de leña | Ecológico y sostenible, utilizando leña como fuente de combustible renovable | Ideal para hogares medianos a grandes, proporcionando calefacción central y agua caliente | Bajas emisiones para una mejor calidad del aire y menor impacto ambiental | Confort constante durante el invierno, calentando tanto el aire como el agua | Operación sencilla y mantenimiento con controles intuitivos.",
+      "dimensions": "Altura: 96 cm | Ancho: 76 cm | Profundidad: 53 cm",
+      "moreImgs": "/assets/temy-plus-p-20-2.webp,/assets/temy-plus-p-20-3.webp"
+    }
+  ]
+}

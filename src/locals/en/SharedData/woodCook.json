@@ -1,0 +1,190 @@
+{
+  "cook": [
+    {
+      "title": "Thermo Magnum Soapstone Boiler",
+      "description": "High-efficiency soapstone boiler for long-lasting and eco-friendly home heating.",
+      "price": "€2450.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 10,
+      "offer": "Limited-time discount!",
+      "category": "Boilers",
+      "fullDescription": "The Thermo Magnum Soapstone Boiler is an advanced and efficient heating solution, designed for those seeking a robust and high-performance system. Made from high-quality soapstone, this boiler ensures superior heat accumulation and optimal energy efficiency. Its advanced combustion system minimizes wood consumption and emissions, making it an eco-friendly and cost-effective choice.",
+      "characteristics": "Material: Premium soapstone for efficient heat storage and gradual release | Optimized combustion system reducing wood consumption and CO2 emissions | High thermal power, ideal for large spaces and central heating | Superior energy efficiency providing consistent heating with lower consumption | Durable and robust design for long-term use | Adjustable temperature control for precise heat management | Low emissions for an environmentally friendly operation.",
+      "benefits": "Eco-friendly, using renewable wood with minimal emissions | Exceptional energy efficiency, ensuring effective heating with optimized fuel use | Long-lasting heat retention due to soapstone properties | Cost-saving, reducing the need for frequent refueling | Ideal for centralized heating, supplying multiple rooms | Easy maintenance with accessible design for cleaning and upkeep.",
+      "dimensions": "Height: 120 cm | Width: 70 cm | Depth: 55 cm",
+      "moreImgs": [
+        "/assets/thermo-magnum-soapstone-1.webp",
+        "/assets/thermo-magnum-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "Termomagnum Boiler",
+      "description": "High-performance boiler designed for large-space heating with eco-friendly combustion.",
+      "price": "€2200.00",
+      "image": "/assets/Cook/cook2.webp",
+      "discount": 12,
+      "offer": "Special winter offer!",
+      "category": "Boilers",
+      "fullDescription": "The Termomagnum Boiler is a high-efficiency heating solution engineered to provide long-lasting and environmentally friendly heating. With a robust design and advanced combustion technology, it optimizes wood burning, reducing fuel consumption and CO2 emissions. Perfect for large homes, industrial spaces, or commercial buildings, it ensures powerful and consistent heat.",
+      "characteristics": "High thermal output, suitable for large-space centralized heating | Optimized energy efficiency to maximize wood use and minimize waste | Advanced combustion system for clean and effective burning | Sturdy and long-lasting construction with high-quality materials | Adjustable temperature control for adaptable heating needs | Easy maintenance with accessible cleaning components.",
+      "benefits": "Efficient and cost-saving, offering more heat with less wood | Eco-friendly with low CO2 emissions | Perfect for central heating, maintaining warmth across multiple zones | Long-lasting heat retention for continuous comfort | Durable and reliable for extended use | User-friendly operation with intuitive controls.",
+      "dimensions": "Height: 130 cm | Width: 75 cm | Depth: 60 cm",
+      "moreImgs": [
+        "/assets/termomagnum-boiler-1.webp",
+        "/assets/termomagnum-boiler-2.webp"
+      ]
+    },
+    {
+      "title": "Super Thermo Magnum Stove Boiler",
+      "description": "Dual-function wood stove boiler providing room heating and hot water for central heating.",
+      "price": "€2800.00",
+      "image": "/assets/Cook/cook3-5.webp",
+      "discount": 15,
+      "offer": "Free installation service!",
+      "category": "Stove Boilers",
+      "fullDescription": "The Super Thermo Magnum Stove Boiler is a powerful and versatile heating solution that combines a wood stove with an integrated boiler for hot water supply. Ideal for large spaces, it ensures both air heating and water heating for radiators or underfloor heating systems. Its advanced combustion system maximizes efficiency while reducing fuel use and emissions.",
+      "characteristics": "Dual heating system for both air and water heating | High thermal power, suitable for large spaces and heating networks | Advanced combustion technology ensuring optimized fuel consumption | Low CO2 emissions for eco-friendly performance | Easy operation with intuitive controls | Robust and efficient design made from high-quality materials.",
+      "benefits": "High energy efficiency, reducing wood consumption while maximizing heat | Long-term savings with wood as an affordable fuel source | Consistent and uniform heating, ensuring comfort throughout the home | Eco-friendly with reduced emissions and clean combustion | Durable and resistant, built for long-lasting performance | Simple maintenance with easy-to-access cleaning features.",
+      "dimensions": "Height: 110 cm | Width: 65 cm | Depth: 50 cm",
+      "moreImgs": [
+        "/assets/super-thermo-magnum-1.webp",
+        "/assets/super-thermo-magnum-2.webp"
+      ]
+    },
+    {
+      "title": "Super Thermo Magnum Soapstone Stove Boiler",
+      "description": "Premium soapstone stove boiler providing superior heat retention and hot water supply.",
+      "price": "€3200.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 18,
+      "offer": "Exclusive online discount!",
+      "category": "Stove Boilers",
+      "fullDescription": "The Super Thermo Magnum Soapstone Stove Boiler is the perfect choice for those seeking an advanced and eco-friendly heating solution. Made with high-quality soapstone, it retains and distributes heat efficiently while providing hot water for central heating. Its elegant yet sturdy design blends seamlessly into any home, ensuring both comfort and efficiency.",
+      "characteristics": "Constructed with soapstone for prolonged heat retention | Integrated boiler system for heating water | High energy efficiency, optimizing wood consumption | Low CO2 emissions for environmentally conscious heating | Elegant and durable design that complements any decor | Easy maintenance with accessible cleaning components | Large heating capacity, perfect for multiple rooms.",
+      "benefits": "Complete thermal comfort, heating both air and water efficiently | Significant fuel savings through optimized wood combustion | Eco-friendly with a clean-burning system and low emissions | Exceptional durability due to high-quality materials | Ideal for large homes, ensuring consistent warmth in multiple areas | User-friendly controls for effortless operation.",
+      "dimensions": "Height: 125 cm | Width: 70 cm | Depth: 55 cm",
+      "moreImgs": [
+        "/assets/super-thermo-magnum-soapstone-1.webp",
+        "/assets/super-thermo-magnum-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "MBS Magnum Wood Stove",
+      "description": "High-performance wood stove with modern design and high efficiency for heating large and medium spaces.",
+      "price": "€799.00",
+      "image": "/assets/Cook/cook3-5.webp",
+      "discount": 10,
+      "offer": "Limited-time offer!",
+      "category": "Wood Stoves",
+      "fullDescription": "The MBS Magnum Wood Stove is a high-performance stove that combines efficiency, durability, and modern design. Its powerful combustion system ensures exceptional heating for large and medium spaces, keeping your home or workplace warm and comfortable throughout the winter. The advanced technology optimizes wood usage, reducing fuel consumption and emissions while contributing to a cleaner environment.",
+      "characteristics": "Powerful combustion system maximizing efficiency and reducing wood consumption | Modern and elegant design adaptable to any decor | Robust structure made of high-quality materials for durability | Large heating capacity, ideal for medium and large spaces | Low CO2 emissions thanks to its efficient combustion system | Easy maintenance with accessible cleaning and control design.",
+      "benefits": "Superior energy efficiency, providing constant heat with less wood consumption | Eco-friendly and cost-effective with low environmental impact | Long-term durability due to its high-quality construction | Consistent thermal comfort, keeping your space warm all day | Attractive and functional design, adding a stylish touch to your home | Easy to operate and maintain with intuitive controls.",
+      "dimensions": "Height: 90 cm | Width: 70 cm | Depth: 50 cm",
+      "moreImgs": [
+        "/assets/mbs-magnum-2.webp",
+        "/assets/mbs-magnum-3.webp"
+      ]
+    },
+    {
+      "title": "MBS Magnum Soapstone Wood Stove",
+      "description": "High-performance wood stove with soapstone construction for prolonged and even heat distribution.",
+      "price": "€999.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 12,
+      "offer": "Special discount available!",
+      "category": "Wood Stoves",
+      "fullDescription": "The MBS Magnum Soapstone Wood Stove combines the efficiency of a wood stove with the exceptional thermal properties of soapstone. Made from this natural material, it provides uniform and prolonged heat distribution, maximizing combustion efficiency and reducing wood consumption. Its robust and modern design ensures superior performance and a warm, cozy environment for your home.",
+      "characteristics": "Made from high-quality natural soapstone with excellent thermal properties | Uniform and prolonged heat distribution, keeping your home warm for hours | High combustion efficiency, maximizing wood usage and reducing consumption | Low CO2 emissions for an environmentally friendly heating solution | Modern and elegant design adaptable to various interior styles | Easy maintenance with accessible cleaning and combustion control system.",
+      "benefits": "Constant thermal comfort due to soapstone's ability to store and release heat slowly | Superior energy efficiency reducing wood consumption while maximizing thermal performance | Eco-friendly and sustainable with low emissions and a natural material composition | Long-lasting durability made from high-quality, resistant materials | Elegant and functional design enhancing your home’s aesthetics | User-friendly with simple controls and intuitive operation.",
+      "dimensions": "Height: 95 cm | Width: 75 cm | Depth: 55 cm",
+      "moreImgs": [
+        "/assets/mbs-magnum-soapstone-2.webp",
+        "/assets/mbs-magnum-soapstone-3.webp"
+      ]
+    },
+ {
+      "title": "Moravia 9103 Wood Stove",
+      "description": "Efficient, eco-friendly, and cost-effective wood stove with a sleek modern design, ideal for medium to large spaces.",
+      "price": "€699.00",
+      "image": "/assets/Cook/cook7.webp",
+      "discount": 8,
+      "offer": "No current offers",
+      "category": "Wood Stoves",
+      "fullDescription": "The Moravia 9103 Wood Stove is the perfect choice for those looking for an efficient, economical, and environmentally friendly heating solution. With a modern and robust design, this wood stove delivers excellent thermal performance, making it ideal for heating medium to large spaces. Advanced combustion technology ensures clean and efficient burning, optimizing wood usage and reducing consumption.",
+      "characteristics": "High power for heating medium to large spaces | Advanced combustion technology ensuring high performance and low CO2 emissions | Modern and sleek design fitting different decor styles | Made from high-quality materials for durability and resistance | Efficient heat distribution ensuring a constant and comfortable temperature | Easy maintenance with a user-friendly access system.",
+      "benefits": "Energy-efficient, maximizing wood energy and reducing consumption | Eco-friendly and economical with low CO2 emissions and high combustion efficiency | Compact and stylish design that blends seamlessly into any home | Consistent warmth, providing steady heat throughout the day | Long-lasting durability ensuring years of reliable use | Hassle-free maintenance with an accessible cleaning system.",
+      "dimensions": "Height: 88 cm | Width: 68 cm | Depth: 48 cm",
+      "moreImgs": "/assets/moravia-9103-2.webp,/assets/moravia-9103-3.webp"
+    },
+    {
+      "title": "Moravia 9112 Wood Stove",
+      "description": "High-performance wood stove with advanced combustion system, designed for large spaces and energy efficiency.",
+      "price": "€849.00",
+      "image": "/assets/Cook/cook8-9.webp",
+      "discount": 9,
+      "offer": "No current offers",
+      "category": "Wood Stoves",
+      "fullDescription": "The Moravia 9112 Wood Stove is a high-performance heating option designed to provide thermal comfort and energy efficiency in your home. With a sleek and modern design, this stove is perfect for those seeking an economical, eco-friendly, and effective heating solution. Its robust structure and advanced combustion technology ensure superior performance and a long lifespan.",
+      "characteristics": "High thermal power, suitable for heating large spaces efficiently | Advanced combustion system maximizing wood usage and reducing fuel consumption | Low CO2 emissions, contributing to a cleaner and more sustainable environment | Modern and elegant design adapting to any interior style | Easy to use and maintain with a simple cleaning and control system | Built with high-quality materials ensuring long-lasting durability.",
+      "benefits": "Superior energy efficiency maximizing heat output while reducing wood usage | Cost-saving on heating expenses by using an economical fuel source | Continuous and pleasant warmth ensuring thermal comfort throughout the day | Eco-friendly and sustainable with low emissions and clean combustion | Reliable durability with a sturdy construction for extended usage | Easy maintenance with an accessible cleaning and maintenance system.",
+      "dimensions": "Height: 92 cm | Width: 72 cm | Depth: 50 cm",
+      "moreImgs": "/assets/moravia-9112-2.webp,/assets/moravia-9112-3.webp"
+    },
+    {
+      "title": "Moravia 9112 EX Wood Stove with Boiler",
+      "description": "High-end wood stove with an integrated boiler for efficient heating and hot water production.",
+      "price": "€1250.00",
+      "image": "/assets/Cook/cook8-9.webp",
+      "discount": 10,
+      "offer": "No current offers",
+      "category": "Wood Stoves",
+      "fullDescription": "The Moravia 9112 EX Wood Stove with Boiler is a complete and efficient heating solution, perfect for those seeking a system that provides thermal comfort while also heating water for central heating or domestic use. Its high-efficiency boiler optimizes firewood consumption, ensuring maximum energy utilization.",
+      "characteristics": "Integrated boiler to heat water for central heating and domestic use | High combustion efficiency to maximize firewood performance | Low CO2 emissions for an eco-friendly and sustainable heating solution | High-quality steel boiler for optimal heat transfer | Modern and elegant design that fits various interior styles | Easy-to-use and maintain with intuitive controls.",
+      "benefits": "Complete thermal comfort, providing both room heating and hot water | Energy and cost savings due to its high efficiency and low firewood consumption | Eco-friendly solution with reduced emissions and optimal resource use | Durable construction with high-quality materials for a long lifespan | Ideal for homes of all sizes, ensuring continuous heating and hot water supply.",
+      "dimensions": "Height: 95 cm | Width: 75 cm | Depth: 52 cm",
+      "moreImgs": "/assets/moravia-9112-ex-2.webp,/assets/moravia-9112-ex-3.webp"
+    },
+    {
+      "title": "Moravia 9114 Wood Stove",
+      "description": "High-performance wood stove with powerful combustion and an elegant, modern design.",
+      "price": "€980.00",
+      "image": "/assets/Cook/cook10.webp",
+      "discount": 8,
+      "offer": "No current offers",
+      "category": "Wood Stoves",
+      "fullDescription": "The Moravia 9114 Wood Stove is a high-efficiency heating solution, designed to provide warmth in an eco-friendly and cost-effective way. With advanced combustion technology, it ensures even heat distribution and a cozy atmosphere during the coldest months.",
+      "characteristics": "Powerful combustion system for maximum thermal efficiency | Compact and modern design that adapts to various interior styles | High-quality materials ensuring durability and resistance | Large heating capacity, suitable for medium and large spaces | Low CO2 emissions for a cleaner environment | Easy maintenance with simple cleaning access.",
+      "benefits": "Superior energy efficiency with long-lasting and steady heat | Eco-friendly and cost-effective due to low firewood consumption | Elegant and functional design that integrates seamlessly into any home | High durability and resistance for extended lifespan | Uniform heat distribution for a consistently warm atmosphere | User-friendly operation and easy maintenance.",
+      "dimensions": "Height: 90 cm | Width: 70 cm | Depth: 49 cm",
+      "moreImgs": "/assets/moravia-9114-2.webp,/assets/moravia-9114-3.webp"
+    },
+    {
+      "title": "Olimpia Wood Stove",
+      "description": "Efficient and durable wood stove with a modern and functional design.",
+      "price": "€1100.00",
+      "image": "/assets/Cook/cook11.webp",
+      "discount": 12,
+      "offer": "No current offers",
+      "category": "Wood Stoves",
+      "fullDescription": "The Olimpia Wood Stove is a high-efficiency heating solution, designed to deliver consistent warmth in your home. With a modern and practical design, this stove is perfect for those seeking durability, ease of use, and clean combustion.",
+      "characteristics": "Modern and elegant design that fits any decor | High energy efficiency for optimal combustion and prolonged heat release | Low emissions for an environmentally friendly solution | Robust and durable construction with high-quality materials | Easy maintenance with accessible cleaning system | Large heating capacity, ideal for spacious rooms or open areas.",
+      "benefits": "Energy savings through efficient combustion that maximizes firewood use | Consistent thermal comfort, providing warmth throughout the day | Sustainable and eco-friendly with low CO2 emissions | Long-lasting durability ensured by a strong and sturdy build | User-friendly design with intuitive controls and easy maintenance.",
+      "dimensions": "Height: 93 cm | Width: 73 cm | Depth: 51 cm",
+      "moreImgs": "/assets/olimpia-2.webp,/assets/olimpia-3.webp"
+    },
+    {
+      "title": "Temy Plus P 20 Wood Stove with Boiler",
+      "description": "20 kW high-efficiency wood stove with an integrated boiler for central heating and hot water.",
+      "price": "€1450.00",
+      "image": "/assets/Cook/cook12.webp",
+      "discount": 15,
+      "offer": "No current offers",
+      "category": "Wood Stoves",
+      "fullDescription": "The Temy Plus P 20 Wood Stove with Boiler is a comprehensive solution for those seeking efficient and eco-friendly home heating. With a 20 kW power output, this stove is equipped with an integrated boiler, providing both room heating and hot water for central heating systems.",
+      "characteristics": "Total power: 20 kW, suitable for centralized heating and hot water production | High-efficiency combustion system to optimize firewood use | Built-in boiler for water heating and home heating integration | Modern and elegant design that complements any space | Low CO2 emissions for an environmentally friendly home | High-quality materials for durability and resilience | Easy maintenance with simple cleaning and operation access.",
+      "benefits": "Energy-efficient, reducing heating costs and firewood consumption | Eco-friendly and sustainable, utilizing renewable wood fuel | Ideal for medium to large homes, providing central heating and hot water | Low emissions for improved air quality and environmental impact | Reliable comfort throughout winter, heating both air and water | Simple operation and maintenance with intuitive controls.",
+      "dimensions": "Height: 96 cm | Width: 76 cm | Depth: 53 cm",
+      "moreImgs": "/assets/temy-plus-p-20-2.webp,/assets/temy-plus-p-20-3.webp"
+    }
+  ]
+}

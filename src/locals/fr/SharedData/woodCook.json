@@ -1,0 +1,208 @@
+{
+  "cook": [
+    {
+      "title": "Chaudière en Stéatite Thermo Magnum",
+      "description": "Chaudière en stéatite haute efficacité pour un chauffage domestique durable et écologique.",
+      "price": "€2450.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 10,
+      "offer": "Réduction limitée dans le temps !",
+      "category": "Chaudières",
+      "fullDescription": "La chaudière en stéatite Thermo Magnum est une solution de chauffage avancée et efficace, conçue pour ceux qui recherchent un système robuste et haute performance. Fabriquée en stéatite de haute qualité, cette chaudière assure une accumulation de chaleur supérieure et une efficacité énergétique optimale. Son système de combustion avancé minimise la consommation de bois et les émissions, en faisant un choix écologique et rentable.",
+      "characteristics": "Matériau : Stéatite premium pour un stockage et une libération efficace de la chaleur | Système de combustion optimisé réduisant la consommation de bois et les émissions de CO2 | Haute puissance thermique, idéale pour les grands espaces et le chauffage central | Efficacité énergétique supérieure fournissant un chauffage constant avec une consommation réduite | Conception durable et robuste pour une utilisation à long terme | Contrôle de température ajustable pour une gestion précise de la chaleur | Faibles émissions pour un fonctionnement respectueux de l'environnement.",
+      "benefits": "Écologique, utilisant du bois renouvelable avec des émissions minimales | Efficacité énergétique exceptionnelle, assurant un chauffage efficace avec une utilisation optimisée du combustible | Rétention de chaleur durable grâce aux propriétés de la stéatite | Économies de coûts, réduisant le besoin de recharges fréquentes | Idéale pour le chauffage centralisé, alimentant plusieurs pièces | Entretien facile avec un design accessible pour le nettoyage et la maintenance.",
+      "dimensions": "Hauteur : 120 cm | Largeur : 70 cm | Profondeur : 55 cm",
+      "moreImgs": [
+        "/assets/thermo-magnum-soapstone-1.webp",
+        "/assets/thermo-magnum-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "Chaudière Termomagnum",
+      "description": "Chaudière haute performance conçue pour le chauffage de grands espaces avec une combustion écologique.",
+      "price": "€2200.00",
+      "image": "/assets/Cook/cook2.webp",
+      "discount": 12,
+      "offer": "Offre spéciale hiver !",
+      "category": "Chaudières",
+      "fullDescription": "La chaudière Termomagnum est une solution de chauffage haute efficacité conçue pour fournir une chaleur durable et respectueuse de l'environnement. Avec une conception robuste et une technologie de combustion avancée, elle optimise la combustion du bois, réduisant la consommation de combustible et les émissions de CO2. Parfaite pour les grandes maisons, les espaces industriels ou les bâtiments commerciaux, elle assure une chaleur puissante et constante.",
+      "characteristics": "Haute puissance thermique, adaptée au chauffage centralisé de grands espaces | Efficacité énergétique optimisée pour maximiser l'utilisation du bois et minimiser les déchets | Système de combustion avancé pour une combustion propre et efficace | Construction durable et de longue durée avec des matériaux de haute qualité | Contrôle de température ajustable pour des besoins de chauffage adaptables | Entretien facile avec des composants de nettoyage accessibles.",
+      "benefits": "Efficace et économique, offrant plus de chaleur avec moins de bois | Écologique avec de faibles émissions de CO2 | Parfaite pour le chauffage central, maintenant la chaleur dans plusieurs zones | Rétention de chaleur durable pour un confort continu | Durable et fiable pour une utilisation prolongée | Fonctionnement convivial avec des contrôles intuitifs.",
+      "dimensions": "Hauteur : 130 cm | Largeur : 75 cm | Profondeur : 60 cm",
+      "moreImgs": [
+        "/assets/termomagnum-boiler-1.webp",
+        "/assets/termomagnum-boiler-2.webp"
+      ]
+    },
+    {
+      "title": "Cuisinière-Chaudière Super Thermo Magnum",
+      "description": "Cuisinière-chaudière à double fonction fournissant chauffage de pièce et eau chaude pour le chauffage central.",
+      "price": "€2800.00",
+      "image": "/assets/Cook/cook3-5.webp",
+      "discount": 15,
+      "offer": "Service d'installation gratuit !",
+      "category": "Cuisinières-Chaudières",
+      "fullDescription": "La cuisinière-chaudière Super Thermo Magnum est une solution de chauffage puissante et polyvalente qui combine une cuisinière à bois avec une chaudière intégrée pour l'alimentation en eau chaude. Idéale pour les grands espaces, elle assure à la fois le chauffage de l'air et de l'eau pour les radiateurs ou les systèmes de chauffage par le sol. Son système de combustion avancé maximise l'efficacité tout en réduisant la consommation de combustible et les émissions.",
+      "characteristics": "Système de chauffage double pour le chauffage de l'air et de l'eau | Haute puissance thermique, adaptée aux grands espaces et aux réseaux de chauffage | Technologie de combustion avancée assurant une consommation de combustible optimisée | Faibles émissions de CO2 pour une performance écologique | Fonctionnement facile avec des contrôles intuitifs | Conception robuste et efficace en matériaux de haute qualité.",
+      "benefits": "Haute efficacité énergétique, réduisant la consommation de bois tout en maximisant la chaleur | Économies à long terme avec le bois comme source de combustible abordable | Chauffage constant et uniforme, assurant le confort dans toute la maison | Écologique avec des émissions réduites et une combustion propre | Durable et résistante, conçue pour une performance à long terme | Entretien simple avec des fonctionnalités de nettoyage facilement accessibles.",
+      "dimensions": "Hauteur : 110 cm | Largeur : 65 cm | Profondeur : 50 cm",
+      "moreImgs": [
+        "/assets/super-thermo-magnum-1.webp",
+        "/assets/super-thermo-magnum-2.webp"
+      ]
+    },
+    {
+      "title": "Cuisinière-Chaudière en Stéatite Super Thermo Magnum",
+      "description": "Cuisinière-chaudière en stéatite premium offrant une rétention de chaleur supérieure et une alimentation en eau chaude.",
+      "price": "€3200.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 18,
+      "offer": "Réduction exclusive en ligne !",
+      "category": "Cuisinières-Chaudières",
+      "fullDescription": "La cuisinière-chaudière en stéatite Super Thermo Magnum est le choix parfait pour ceux qui recherchent une solution de chauffage avancée et écologique. Fabriquée en stéatite de haute qualité, elle retient et distribue la chaleur efficacement tout en fournissant de l'eau chaude pour le chauffage central. Son design élégant mais robuste s'intègre parfaitement dans n'importe quelle maison, assurant à la fois confort et efficacité.",
+      "characteristics": "Construite en stéatite pour une rétention de chaleur prolongée | Système de chaudière intégré pour chauffer l'eau | Haute efficacité énergétique, optimisant la consommation de bois | Faibles émissions de CO2 pour un chauffage respectueux de l'environnement | Design élégant et durable qui complète tout décor | Entretien facile avec des composants de nettoyage accessibles | Grande capacité de chauffage, parfaite pour plusieurs pièces.",
+      "benefits": "Confort thermique complet, chauffant à la fois l'air et l'eau efficacement | Économies significatives de combustible grâce à une combustion optimisée du bois | Écologique avec un système de combustion propre et de faibles émissions | Durabilité exceptionnelle grâce à des matériaux de haute qualité | Idéale pour les grandes maisons, assurant une chaleur constante dans plusieurs zones | Contrôles conviviaux pour une utilisation sans effort.",
+      "dimensions": "Hauteur : 125 cm | Largeur : 70 cm | Profondeur : 55 cm",
+      "moreImgs": [
+        "/assets/super-thermo-magnum-soapstone-1.webp",
+        "/assets/super-thermo-magnum-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "Poêle à Bois MBS Magnum",
+      "description": "Poêle à bois haute performance avec un design moderne et une grande efficacité pour chauffer les grands et moyens espaces.",
+      "price": "€799.00",
+      "image": "/assets/Cook/cook3-5.webp",
+      "discount": 10,
+      "offer": "Offre limitée dans le temps !",
+      "category": "Poêles à Bois",
+      "fullDescription": "Le poêle à bois MBS Magnum est un poêle haute performance qui combine efficacité, durabilité et design moderne. Son puissant système de combustion assure un chauffage exceptionnel pour les grands et moyens espaces, gardant votre maison ou lieu de travail chaud et confortable tout au long de l'hiver. La technologie avancée optimise l'utilisation du bois, réduisant la consommation de combustible et les émissions tout en contribuant à un environnement plus propre.",
+      "characteristics": "Système de combustion puissant maximisant l'efficacité et réduisant la consommation de bois | Design moderne et élégant adaptable à tout décor | Structure robuste en matériaux de haute qualité pour la durabilité | Grande capacité de chauffage, idéale pour les espaces moyens et grands | Faibles émissions de CO2 grâce à son système de combustion efficace | Entretien facile avec un design de nettoyage et de contrôle accessible.",
+      "benefits": "Efficacité énergétique supérieure, fournissant une chaleur constante avec moins de consommation de bois | Écologique et économique avec un faible impact environnemental | Durabilité à long terme grâce à sa construction de haute qualité | Confort thermique constant, gardant votre espace chaud toute la journée | Design attractif et fonctionnel, ajoutant une touche stylée à votre maison | Facile à utiliser et à entretenir avec des contrôles intuitifs.",
+      "dimensions": "Hauteur : 90 cm | Largeur : 70 cm | Profondeur : 50 cm",
+      "moreImgs": [
+        "/assets/mbs-magnum-2.webp",
+        "/assets/mbs-magnum-3.webp"
+      ]
+    },
+    {
+      "title": "Poêle à Bois en Stéatite MBS Magnum",
+      "description": "Poêle à bois haute performance avec une construction en stéatite pour une distribution de chaleur prolongée et uniforme.",
+      "price": "€999.00",
+      "image": "/assets/Cook/cook1-4-6.webp",
+      "discount": 12,
+      "offer": "Réduction spéciale disponible !",
+      "category": "Poêles à Bois",
+      "fullDescription": "Le poêle à bois en stéatite MBS Magnum combine l'efficacité d'un poêle à bois avec les propriétés thermiques exceptionnelles de la stéatite. Fabriqué à partir de ce matériau naturel, il assure une distribution de chaleur uniforme et prolongée, maximisant l'efficacité de la combustion et réduisant la consommation de bois. Son design robuste et moderne garantit des performances supérieures et un environnement chaud et confortable pour votre maison.",
+      "characteristics": "Fabriqué en stéatite naturelle de haute qualité avec d'excellentes propriétés thermiques | Distribution de chaleur uniforme et prolongée, gardant votre maison chaude pendant des heures | Haute efficacité de combustion, maximisant l'utilisation du bois et réduisant la consommation | Faibles émissions de CO2 pour une solution de chauffage écologique | Design moderne et élégant adaptable à divers styles d'intérieur | Entretien facile avec un système de contrôle de la combustion et de nettoyage accessible.",
+      "benefits": "Confort thermique constant grâce à la capacité de la stéatite à stocker et libérer lentement la chaleur | Efficacité énergétique supérieure réduisant la consommation de bois tout en maximisant la performance thermique | Écologique et durable avec de faibles émissions et une composition en matériaux naturels | Durabilité à long terme grâce à des matériaux de haute qualité et résistants | Design élégant et fonctionnel améliorant l'esthétique de votre maison | Convivial avec des contrôles simples et une utilisation intuitive.",
+      "dimensions": "Hauteur : 95 cm | Largeur : 75 cm | Profondeur : 55 cm",
+      "moreImgs": [
+        "/assets/mbs-magnum-soapstone-2.webp",
+        "/assets/mbs-magnum-soapstone-3.webp"
+      ]
+    },
+    {
+      "title": "Poêle à Bois Moravia 9103",
+      "description": "Poêle à bois efficace, écologique et économique avec un design moderne et élégant, idéal pour les espaces moyens à grands.",
+      "price": "€699.00",
+      "image": "/assets/Cook/cook7.webp",
+      "discount": 8,
+      "offer": "Pas d'offres actuelles",
+      "category": "Poêles à Bois",
+      "fullDescription": "Le poêle à bois Moravia 9103 est le choix parfait pour ceux qui recherchent une solution de chauffage efficace, économique et respectueuse de l'environnement. Avec un design moderne et robuste, ce poêle à bois offre une performance thermique excellente, le rendant idéal pour chauffer des espaces moyens à grands. La technologie de combustion avancée assure une combustion propre et efficace, optimisant l'utilisation du bois et réduisant la consommation.",
+      "characteristics": "Haute puissance pour chauffer des espaces moyens à grands | Technologie de combustion avancée assurant une performance élevée et de faibles émissions de CO2 | Design moderne et élégant s'adaptant à différents styles de décoration | Fabriqué en matériaux de haute qualité pour la durabilité et la résistance | Distribution de chaleur efficace assurant une température constante et confortable | Entretien facile avec un système d'accès convivial.",
+      "benefits": "Efficacité énergétique, maximisant l'énergie du bois et réduisant la consommation | Écologique et économique avec de faibles émissions de CO2 et une haute efficacité de combustion | Design compact et stylé qui s'intègre parfaitement dans n'importe quelle maison | Chaleur constante, fournissant une chaleur régulière tout au long de la journée | Durabilité à long terme garantissant des années d'utilisation fiable | Entretien sans tracas avec un système de nettoyage accessible.",
+      "dimensions": "Hauteur : 88 cm | Largeur : 68 cm | Profondeur : 48 cm",
+      "moreImgs": [
+        "/assets/moravia-9103-2.webp",
+        "/assets/moravia-9103-3.webp"
+      ]
+    },
+    {
+      "title": "Poêle à Bois Moravia 9112",
+      "description": "Poêle à bois haute performance avec un système de combustion avancé, conçu pour les grands espaces et l'efficacité énergétique.",
+      "price": "€849.00",
+      "image": "/assets/Cook/cook8-9.webp",
+      "discount": 9,
+      "offer": "Pas d'offres actuelles",
+      "category": "Poêles à Bois",
+      "fullDescription": "Le poêle à bois Moravia 9112 est une option de chauffage haute performance conçue pour offrir un confort thermique et une efficacité énergétique dans votre maison. Avec un design moderne et élégant, ce poêle est parfait pour ceux qui recherchent une solution de chauffage économique, écologique et efficace. Sa structure robuste et sa technologie de combustion avancée garantissent des performances supérieures et une longue durée de vie.",
+      "characteristics": "Haute puissance thermique, adaptée au chauffage efficace des grands espaces | Système de combustion avancé maximisant l'utilisation du bois et réduisant la consommation de combustible | Faibles émissions de CO2, contribuant à un environnement plus propre et durable | Design moderne et élégant s'adaptant à tout style d'intérieur | Facile à utiliser et à entretenir avec un système de nettoyage et de contrôle simple | Construit avec des matériaux de haute qualité garantissant une longue durée de vie.",
+      "benefits": "Efficacité énergétique supérieure maximisant la production de chaleur tout en réduisant la consommation de bois | Économies sur les coûts de chauffage grâce à une source de combustible économique | Chaleur continue et agréable assurant un confort thermique tout au long de la journée | Écologique et durable avec de faibles émissions et une combustion propre | Durabilité et fiabilité avec une construction robuste pour une utilisation prolongée | Entretien facile avec un système de nettoyage et de maintenance accessible.",
+      "dimensions": "Hauteur : 92 cm | Largeur : 72 cm | Profondeur : 50 cm",
+      "moreImgs": [
+        "/assets/moravia-9112-2.webp",
+        "/assets/moravia-9112-3.webp"
+      ]
+    },
+    {
+      "title": "Poêle à Bois Moravia 9112 EX avec Chaudière",
+      "description": "Poêle à bois haut de gamme avec chaudière intégrée pour un chauffage efficace et une production d'eau chaude.",
+      "price": "€1250.00",
+      "image": "/assets/Cook/cook8-9.webp",
+      "discount": 10,
+      "offer": "Pas d'offres actuelles",
+      "category": "Poêles à Bois",
+      "fullDescription": "Le poêle à bois Moravia 9112 EX avec chaudière est une solution de chauffage complète et efficace, parfaite pour ceux qui recherchent un système fournissant un confort thermique tout en chauffant l'eau pour le chauffage central ou un usage domestique. Sa chaudière haute efficacité optimise la consommation de bois de chauffage, assurant une utilisation maximale de l'énergie.",
+      "characteristics": "Chaudière intégrée pour chauffer l'eau pour le chauffage central et l'usage domestique | Haute efficacité de combustion pour maximiser la performance du bois de chauffage | Faibles émissions de CO2 pour une solution de chauffage écologique et durable | Chaudière en acier de haute qualité pour un transfert de chaleur optimal | Design moderne et élégant s'adaptant à divers styles d'intérieur | Facile à utiliser et à entretenir avec des contrôles intuitifs.",
+      "benefits": "Confort thermique complet, fournissant à la fois le chauffage de la pièce et l'eau chaude | Économies d'énergie et de coûts grâce à sa haute efficacité et sa faible consommation de bois de chauffage | Solution écologique avec des émissions réduites et une utilisation optimale des ressources | Construction durable avec des matériaux de haute qualité pour une longue durée de vie | Idéale pour les maisons de toutes tailles, assurant un chauffage et une alimentation en eau chaude continus.",
+      "dimensions": "Hauteur : 95 cm | Largeur : 75 cm | Profondeur : 52 cm",
+      "moreImgs": [
+        "/assets/moravia-9112-ex-2.webp",
+        "/assets/moravia-9112-ex-3.webp"
+      ]
+    },
+    {
+      "title": "Poêle à Bois Moravia 9114",
+      "description": "Poêle à bois haute performance avec une combustion puissante et un design moderne et élégant.",
+      "price": "€980.00",
+      "image": "/assets/Cook/cook10.webp",
+      "discount": 8,
+      "offer": "Pas d'offres actuelles",
+      "category": "Poêles à Bois",
+      "fullDescription": "Le poêle à bois Moravia 9114 est une solution de chauffage haute efficacité conçue pour apporter de la chaleur de manière écologique et économique. Grâce à sa technologie de combustion avancée, il assure une distribution de chaleur uniforme et une atmosphère chaleureuse pendant les mois les plus froids.",
+      "characteristics": "Système de combustion puissant pour une efficacité thermique maximale | Design compact et moderne s'adaptant à divers styles d'intérieur | Matériaux de haute qualité assurant durabilité et résistance | Grande capacité de chauffage, adaptée aux espaces moyens et grands | Faibles émissions de CO2 pour un environnement plus propre | Entretien facile avec un accès de nettoyage simple.",
+      "benefits": "Efficacité énergétique supérieure avec une chaleur durable et constante | Écologique et économique grâce à une faible consommation de bois de chauffage | Design élégant et fonctionnel s'intégrant parfaitement dans n'importe quelle maison | Haute durabilité et résistance pour une longue durée de vie | Distribution de chaleur uniforme pour une atmosphère constamment chaude | Utilisation et entretien faciles.",
+      "dimensions": "Hauteur : 90 cm | Largeur : 70 cm | Profondeur : 49 cm",
+      "moreImgs": [
+        "/assets/moravia-9114-2.webp",
+        "/assets/moravia-9114-3.webp"
+      ]
+    },
+    {
+      "title": "Poêle à Bois Olimpia",
+      "description": "Poêle à bois efficace et durable avec un design moderne et fonctionnel.",
+      "price": "€1100.00",
+      "image": "/assets/Cook/cook11.webp",
+      "discount": 12,
+      "offer": "Pas d'offres actuelles",
+      "category": "Poêles à Bois",
+      "fullDescription": "Le poêle à bois Olimpia est une solution de chauffage haute efficacité conçue pour fournir une chaleur constante dans votre maison. Avec un design moderne et pratique, ce poêle est parfait pour ceux qui recherchent durabilité, facilité d'utilisation et combustion propre.",
+      "characteristics": "Design moderne et élégant s'adaptant à tout décor | Haute efficacité énergétique pour une combustion optimale et une libération prolongée de chaleur | Faibles émissions pour une solution de chauffage écologique | Construction robuste et durable avec des matériaux de haute qualité | Entretien facile avec un système de nettoyage accessible | Grande capacité de chauffage, idéale pour les grandes pièces ou les espaces ouverts.",
+      "benefits": "Économies d'énergie grâce à une combustion efficace maximisant l'utilisation du bois de chauffage | Confort thermique constant, fournissant de la chaleur tout au long de la journée | Durable et écologique avec de faibles émissions de CO2 | Durabilité à long terme assurée par une construction solide et robuste | Design convivial avec des contrôles intuitifs et un entretien facile.",
+      "dimensions": "Hauteur : 93 cm | Largeur : 73 cm | Profondeur : 51 cm",
+      "moreImgs": [
+        "/assets/olimpia-2.webp",
+        "/assets/olimpia-3.webp"
+      ]
+    },
+    {
+      "title": "Poêle à Bois Temy Plus P 20 avec Chaudière",
+      "description": "Poêle à bois de 20 kW haute efficacité avec chaudière intégrée pour le chauffage central et l'eau chaude.",
+      "price": "€1450.00",
+      "image": "/assets/Cook/cook12.webp",
+      "discount": 15,
+      "offer": "Pas d'offres actuelles",
+      "category": "Poêles à Bois",
+      "fullDescription": "Le poêle à bois Temy Plus P 20 avec chaudière est une solution complète pour ceux qui recherchent un chauffage domestique efficace et écologique. Avec une puissance de 20 kW, ce poêle est équipé d'une chaudière intégrée, fournissant à la fois le chauffage de la pièce et l'eau chaude pour les systèmes de chauffage central.",
+      "characteristics": "Puissance totale : 20 kW, adaptée au chauffage centralisé et à la production d'eau chaude | Système de combustion haute efficacité optimisant l'utilisation du bois de chauffage | Chaudière intégrée pour le chauffage de l'eau et l'intégration au chauffage domestique | Design moderne et élégant complétant tout espace | Faibles émissions de CO2 pour une maison respectueuse de l'environnement | Matériaux de haute qualité pour durabilité et résilience | Entretien facile avec un accès simple aux opérations de nettoyage.",
+      "benefits": "Efficacité énergétique, réduisant les coûts de chauffage et la consommation de bois de chauffage | Écologique et durable, utilisant du bois de chauffage renouvelable | Idéale pour les maisons moyennes à grandes, fournissant le chauffage central et l'eau chaude | Faibles émissions pour une meilleure qualité de l'air et un impact environnemental réduit | Confort fiable tout au long de l'hiver, chauffant à la fois l'air et l'eau | Fonctionnement et entretien simples avec des contrôles intuitifs.",
+      "dimensions": "Hauteur : 96 cm | Largeur : 76 cm | Profondeur : 53 cm",
+      "moreImgs": [
+        "/assets/temy-plus-p-20-2.webp",
+        "/assets/temy-plus-p-20-3.webp"
+      ]
+    }
+  ]
+}

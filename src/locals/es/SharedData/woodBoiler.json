@@ -1,0 +1,89 @@
+{
+    "boilers": [
+      {
+        "title": "Caldera de Leña Sólida 25 kW",
+        "description": "Solución de calefacción eficiente y ecológica para espacios medianos a grandes.",
+        "price": "€1250.00",
+        "image": "/assets/boiler.webp",
+        "discount": 15,
+        "offer": "Sin oferta actual",
+        "category": "Calderas de Leña",
+        "fullDescription": "La Caldera de Leña Sólida 25 kW es la opción ideal para quienes buscan una calefacción eficiente, rentable y respetuosa con el medio ambiente. Con una potencia de 25 kW, esta caldera es perfecta para calentar grandes espacios y proporcionar agua caliente continua. Su diseño robusto y sistema de combustión optimizado aseguran una alta eficiencia energética, reduciendo el consumo de leña y las emisiones contaminantes.",
+        "characteristics": "Potencia: 25 kW, ideal para calefacción centralizada y agua caliente doméstica en espacios medianos o grandes | Materiales de alta calidad que aseguran durabilidad y resistencia | Eficiencia energética optimizada con bajo consumo de leña y emisiones mínimas | Sistema avanzado de combustión para una quema limpia y efectiva | Diseño compacto y robusto, adecuado para instalaciones residenciales y comerciales | Bajo mantenimiento, con fácil acceso para limpieza y control.",
+        "benefits": "Alta eficiencia térmica, proporcionando calor constante y rentable | Ecológica, utilizando leña como fuente de energía renovable y sostenible | Fácil de operar, con un sistema de control intuitivo y sencillo | Bajas emisiones de CO2, reduciendo el impacto ambiental | Ideal para hogares, cabañas y negocios, con capacidad de calefacción suficiente para grandes espacios.",
+        "dimensions": "Altura: 120cm, Ancho: 80cm, Profundidad: 60cm",
+        "moreImgs": "/assets/boiler-25kw-2.webp"
+      },
+      {
+        "title": "Caldera de Leña Sólida 35 kW",
+        "description": "Solución de calefacción potente y eficiente para grandes hogares y espacios comerciales.",
+        "price": "€1850.00",
+        "image": "/assets/boiler.webp",
+        "discount": 12,
+        "offer": "Sin oferta actual",
+        "category": "Calderas de Leña",
+        "fullDescription": "La Caldera de Leña Sólida 35 kW es la solución perfecta para quienes necesitan una fuente de calefacción potente y eficiente para grandes espacios. Con una potencia de 35 kW, esta caldera está diseñada para proporcionar calefacción centralizada para grandes hogares, cabañas, almacenes o pequeños negocios, así como producción de agua caliente. Gracias a su eficiente sistema de combustión, optimiza el uso de leña y reduce significativamente las emisiones de CO2, convirtiéndola en una opción ecológica y rentable.",
+        "characteristics": "Potencia: 35 kW, ideal para calefacción centralizada en grandes espacios y producción de agua caliente | Eficiencia energética avanzada, maximizando el rendimiento de la leña y reduciendo el consumo | Construcción robusta y duradera, hecha de materiales de alta calidad que aseguran una larga vida útil | Sistema de combustión optimizado, reduciendo las emisiones de CO2 y minimizando el impacto ambiental | Fácil mantenimiento, con un diseño accesible para limpieza y control | Control de temperatura ajustable, permitiendo un ajuste preciso de la calefacción y el agua caliente.",
+        "benefits": "Alta eficiencia térmica, proporcionando calefacción y agua caliente de manera eficiente | Ecológica, utilizando leña como fuente de energía renovable con bajas emisiones de CO2 | Ideal para grandes espacios, ofreciendo calefacción centralizada para hogares, cabañas o negocios | Reducción de costos energéticos, gracias a su uso optimizado de leña | Fácil operación y mantenimiento, con controles sencillos y un sistema de limpieza eficiente.",
+        "dimensions": "Altura: 130cm, Ancho: 90cm, Profundidad: 70cm",
+        "moreImgs": "/assets/boiler-35kw-2.webp"
+      },
+      {
+        "title": "Caldera de Leña Sólida 50 kW",
+        "description": "Sistema de calefacción de alto rendimiento para aplicaciones industriales y comerciales.",
+        "price": "€2750.00",
+        "image": "/assets/boiler.webp",
+        "discount": 10,
+        "offer": "Sin oferta actual",
+        "category": "Calderas de Leña",
+        "fullDescription": "La Caldera de Leña Sólida 50 kW es la opción ideal para quienes buscan una solución de calefacción potente, eficiente y ecológica para grandes espacios. Con una potencia de 50 kW, esta caldera está diseñada para proporcionar calefacción centralizada para grandes hogares, instalaciones comerciales o incluso almacenes industriales, así como un suministro constante de agua caliente.",
+        "characteristics": "Potencia: 50 kW, perfecta para calefacción centralizada de grandes espacios y producción de agua caliente | Sistema de combustión eficiente, maximizando el rendimiento de la leña y reduciendo el consumo | Bajas emisiones de CO2, contribuyendo a un ambiente más limpio | Construcción robusta, hecha de materiales de alta calidad que aseguran una larga durabilidad | Fácil mantenimiento, con acceso conveniente para limpieza y control | Control de temperatura ajustable, permitiendo adaptar la calefacción a las necesidades del espacio.",
+        "benefits": "Alta eficiencia energética, optimizando el uso de leña y reduciendo los costos de calefacción | Ideal para calentar grandes espacios, proporcionando calor constante y un suministro eficiente de agua caliente | Ecológica, utilizando leña como fuente de energía renovable mientras minimiza las emisiones | Ahorro a largo plazo, gracias a su alta eficiencia en el uso de combustible | Durabilidad garantizada, con una construcción de alta resistencia para uso intensivo y prolongado | Confort constante, con una distribución uniforme del calor que mantiene los espacios cálidos durante todo el día.",
+        "dimensions": "Altura: 140cm, Ancho: 100cm, Profundidad: 80cm",
+        "moreImgs": "/assets/boiler-50kw-2.webp"
+      },
+      {
+        "title": "Caldera de Leña Sólida 40 kW",
+        "description": "Sistema de calefacción duradero y de alta eficiencia con construcción de leña sólida.",
+        "price": "€2350.00",
+        "image": "/assets/boiler.webp",
+        "discount": 14,
+        "offer": "Sin oferta actual",
+        "category": "Calderas de Leña",
+        "fullDescription": "La Caldera de Leña Sólida 40 kW es la solución perfecta para quienes buscan una fuente de calefacción potente, eficiente y ecológica para grandes espacios. Con una potencia de 40 kW, esta caldera es ideal para calefacción centralizada en grandes hogares, cabañas, almacenes o incluso pequeños negocios. Su diseño robusto y sistema avanzado de combustión aseguran un rendimiento óptimo, maximizando la eficiencia energética y minimizando las emisiones de CO2.",
+        "characteristics": "Potencia: 40 kW, perfecta para calentar grandes espacios y proporcionar agua caliente doméstica | Construcción de leña sólida, asegurando resistencia y durabilidad | Sistema avanzado de combustión, maximizando la eficiencia energética y reduciendo el consumo de leña | Bajas emisiones de CO2, contribuyendo a la protección del medio ambiente | Control de temperatura ajustable para adaptar la calefacción a necesidades específicas | Fácil mantenimiento, con un diseño accesible para limpieza y control de la caldera.",
+        "benefits": "Eficiencia energética excepcional, optimizando el uso de leña y reduciendo los costos de calefacción | Ecológica y sostenible, utilizando leña como combustible renovable | Ideal para calefacción centralizada, proporcionando calor constante en el hogar o espacio | Bajo impacto ambiental, con un sistema de combustión que minimiza las emisiones | Durabilidad y resistencia, gracias a su construcción de leña sólida de alta calidad.",
+        "dimensions": "Altura: 135cm, Ancho: 85cm, Profundidad: 75cm",
+        "moreImgs": "/assets/boiler-40kw-2.webp"
+      },
+      {
+        "title": "Silla de Leña Sólida con Calefacción de 20 kW",
+        "description": "Una silla cómoda e innovadora con un sistema de calefacción integrado de 20 kW para una experiencia cálida y acogedora.",
+        "price": "€599.00",
+        "image": "/assets/boiler.webp",
+        "discount": 10,
+        "offer": "Sin oferta actual",
+        "category": "Mobiliario",
+        "fullDescription": "La Silla de Leña Sólida con Calefacción de 20 kW es una opción innovadora y cómoda para quienes desean disfrutar del calor mientras se relajan. Con una potencia de 20 kW, esta silla combina la comodidad de los muebles de leña sólida con un sistema de calefacción eficiente, proporcionando una experiencia de calor constante y envolvente.",
+        "characteristics": "Potencia de calefacción: 20 kW para un calor intenso y eficiente | Material: Leña sólida de alta calidad para durabilidad y resistencia | Sistema de calefacción integrado para una distribución uniforme del calor | Diseño elegante y moderno que se adapta a diversos estilos decorativos | Control de temperatura ajustable para personalizar los niveles de calor | Bajo consumo de energía para un rendimiento de calefacción eficiente.",
+        "benefits": "Confort térmico personalizado, perfecto para relajarse en invierno | Sistema de calefacción eficiente con alto rendimiento | Ecológica y sostenible, hecha de leña de origen responsable | Fácil de usar con controles sencillos para ajustar la temperatura | Diseño atractivo y funcional, combinando elegancia con tecnología avanzada de calefacción.",
+        "dimensions": "Tamaño estándar de silla con diseño ergonómico",
+        "moreImgs": "/assets/solid-wood-heated-chair-2.webp"
+      },
+      {
+        "title": "Estufa de Leña Sólida – 30 kW",
+        "description": "Una estufa de leña sólida potente y ecológica con una salida de 30 kW, ideal para calentar grandes espacios de manera eficiente.",
+        "price": "€899.00",
+        "image": "/assets/boiler.webp",
+        "discount": 15,
+        "offer": "Sin oferta actual",
+        "category": "Calefacción",
+        "fullDescription": "La Estufa de Leña Sólida – 30 kW es la solución perfecta para quienes buscan una fuente de calefacción potente, eficiente y ecológica para su hogar. Con una potencia de 30 kW, esta estufa está diseñada para proporcionar calefacción eficiente para grandes espacios, lo que la hace ideal para hogares, cabañas o áreas comerciales.",
+        "characteristics": "Potencia: 30 kW, adecuada para calentar grandes espacios o calefacción centralizada | Material: Construcción robusta de leña sólida con componentes de alta calidad | Alta eficiencia energética, asegurando un uso óptimo de la leña con mínimo desperdicio | Diseño funcional y elegante, adaptándose a diversos estilos de interiores | Bajas emisiones de CO2, contribuyendo a una solución de calefacción ecológica | Ideal para estufas, calderas y sistemas de calefacción de gran capacidad.",
+        "benefits": "Alto rendimiento térmico para un calor duradero y constante | Ecológica y sostenible, utilizando leña como fuente de energía renovable | Fácil de operar y mantener, con un sistema de control accesible | Bajas emisiones y combustión eficiente, reduciendo el impacto ambiental | Confort y autonomía, manteniendo su hogar cálido durante todo el invierno.",
+        "dimensions": "Tamaño estándar de estufa para calefacción de grandes espacios",
+        "moreImgs": "/assets/solid-wood-stove-30kw-2.webp"
+      }
+    ]
+  }
+  

@@ -1,0 +1,89 @@
+{
+    "boilers": [
+      {
+        "title": "Chaudière à Bois 25 kW",
+        "description": "Solution de chauffage efficace et écologique pour les espaces moyens à grands.",
+        "price": "€1250.00",
+        "image": "/assets/boiler.webp",
+        "discount": 15,
+        "offer": "Pas d'offre actuelle",
+        "category": "Chaudières à Bois",
+        "fullDescription": "La Chaudière à Bois 25 kW est le choix idéal pour ceux qui recherchent un chauffage efficace, économique et respectueux de l'environnement. Avec une puissance de 25 kW, cette chaudière est parfaite pour chauffer de grands espaces et fournir de l'eau chaude en continu. Sa conception robuste et son système de combustion optimisé assurent une haute efficacité énergétique, réduisant la consommation de bois et les émissions de polluants.",
+        "characteristics": "Puissance : 25 kW, idéale pour le chauffage centralisé et l'eau chaude domestique dans les espaces moyens ou grands | Matériaux de haute qualité assurant durabilité et résistance | Efficacité énergétique optimisée avec faible consommation de bois et émissions minimales | Système de combustion avancé pour une combustion propre et efficace | Design compact et robuste, adapté aux installations résidentielles et commerciales | Faible entretien, avec un accès facile pour le nettoyage et le contrôle.",
+        "benefits": "Haute efficacité thermique, fournissant un chauffage constant et économique | Écologique, utilisant le bois comme source d'énergie renouvelable et durable | Facile à utiliser, avec un système de contrôle intuitif et simple | Faibles émissions de CO2, réduisant l'impact environnemental | Idéale pour les maisons, chalets et entreprises, avec une capacité de chauffage suffisante pour les grands espaces.",
+        "dimensions": "Hauteur : 120 cm, Largeur : 80 cm, Profondeur : 60 cm",
+        "moreImgs": "/assets/boiler-25kw-2.webp"
+      },
+      {
+        "title": "Chaudière à Bois 35 kW",
+        "description": "Solution de chauffage puissante et efficace pour les grandes maisons et les espaces commerciaux.",
+        "price": "€1850.00",
+        "image": "/assets/boiler.webp",
+        "discount": 12,
+        "offer": "Pas d'offre actuelle",
+        "category": "Chaudières à Bois",
+        "fullDescription": "La Chaudière à Bois 35 kW est la solution parfaite pour ceux qui ont besoin d'une source de chauffage puissante et efficace pour les grands espaces. Avec une puissance de 35 kW, cette chaudière est conçue pour fournir un chauffage centralisé pour les grandes maisons, chalets, entrepôts ou petites entreprises, ainsi que la production d'eau chaude. Grâce à son système de combustion efficace, elle optimise l'utilisation du bois et réduit considérablement les émissions de CO2, faisant de cette chaudière une option écologique et économique.",
+        "characteristics": "Puissance : 35 kW, idéale pour le chauffage centralisé des grands espaces et la production d'eau chaude | Efficacité énergétique avancée, maximisant la performance du bois et réduisant la consommation | Construction robuste et durable, fabriquée à partir de matériaux de haute qualité garantissant une longue durée de vie | Système de combustion optimisé, réduisant les émissions de CO2 et minimisant l'impact environnemental | Entretien facile, avec un design accessible pour le nettoyage et le contrôle | Contrôle de température ajustable, permettant un réglage précis du chauffage et de l'eau chaude.",
+        "benefits": "Haute efficacité thermique, fournissant un chauffage et une eau chaude constants de manière efficace | Écologique, utilisant le bois comme source d'énergie renouvelable avec de faibles émissions de CO2 | Idéale pour les grands espaces, offrant un chauffage centralisé pour les maisons, chalets ou entreprises | Réduction des coûts énergétiques, grâce à son utilisation optimisée du bois | Facilité d'utilisation et d'entretien, avec des contrôles simples et un système de nettoyage efficace.",
+        "dimensions": "Hauteur : 130 cm, Largeur : 90 cm, Profondeur : 70 cm",
+        "moreImgs": "/assets/boiler-35kw-2.webp"
+      },
+      {
+        "title": "Chaudière à Bois 50 kW",
+        "description": "Système de chauffage haute performance pour les applications industrielles et commerciales.",
+        "price": "€2750.00",
+        "image": "/assets/boiler.webp",
+        "discount": 10,
+        "offer": "Pas d'offre actuelle",
+        "category": "Chaudières à Bois",
+        "fullDescription": "La Chaudière à Bois 50 kW est l'option idéale pour ceux qui recherchent une solution de chauffage puissante, efficace et écologique pour les grands espaces. Avec une puissance de 50 kW, cette chaudière est conçue pour fournir un chauffage centralisé pour les grandes maisons, installations commerciales ou même entrepôts industriels, ainsi qu'une alimentation constante en eau chaude.",
+        "characteristics": "Puissance : 50 kW, parfaite pour le chauffage centralisé des grands espaces et la production d'eau chaude | Système de combustion efficace, maximisant la performance du bois et réduisant la consommation | Faibles émissions de CO2, contribuant à un environnement plus propre | Construction robuste, fabriquée à partir de matériaux de haute qualité garantissant une longue durée de vie | Entretien facile, avec un accès pratique pour le nettoyage et le contrôle | Contrôle de température ajustable, permettant d'adapter le chauffage aux besoins de l'espace.",
+        "benefits": "Haute efficacité énergétique, optimisant l'utilisation du bois et réduisant les coûts de chauffage | Idéale pour chauffer de grands espaces, fournissant une chaleur constante et une alimentation efficace en eau chaude | Écologique, utilisant le bois comme source d'énergie renouvelable tout en minimisant les émissions | Économies à long terme, grâce à son efficacité énergétique élevée | Durabilité garantie, avec une construction résistante pour une utilisation intensive et prolongée | Confort constant, avec une distribution uniforme de la chaleur maintenant les espaces chauds toute la journée.",
+        "dimensions": "Hauteur : 140 cm, Largeur : 100 cm, Profondeur : 80 cm",
+        "moreImgs": "/assets/boiler-50kw-2.webp"
+      },
+      {
+        "title": "Chaudière à Bois 40 kW",
+        "description": "Système de chauffage durable et à haute efficacité avec une construction en bois massif.",
+        "price": "€2350.00",
+        "image": "/assets/boiler.webp",
+        "discount": 14,
+        "offer": "Pas d'offre actuelle",
+        "category": "Chaudières à Bois",
+        "fullDescription": "La Chaudière à Bois 40 kW est la solution parfaite pour ceux qui recherchent une source de chauffage puissante, efficace et écologique pour les grands espaces. Avec une puissance de 40 kW, cette chaudière est idéale pour le chauffage centralisé dans les grandes maisons, chalets, entrepôts ou même petites entreprises. Sa conception robuste et son système de combustion avancé assurent des performances optimales, maximisant l'efficacité énergétique et minimisant les émissions de CO2.",
+        "characteristics": "Puissance : 40 kW, parfaite pour chauffer de grands espaces et fournir de l'eau chaude domestique | Construction en bois massif, garantissant résistance et durabilité | Système de combustion avancé, maximisant l'efficacité énergétique et réduisant la consommation de bois | Faibles émissions de CO2, contribuant à la protection de l'environnement | Contrôle de température ajustable pour adapter le chauffage aux besoins spécifiques | Entretien facile, avec un design accessible pour le nettoyage et le contrôle de la chaudière.",
+        "benefits": "Efficacité énergétique exceptionnelle, optimisant l'utilisation du bois et réduisant les coûts de chauffage | Écologique et durable, utilisant le bois comme combustible renouvelable | Idéale pour le chauffage centralisé, fournissant une chaleur constante dans toute la maison ou l'espace | Faible impact environnemental, avec un système de combustion qui minimise les émissions | Durabilité et résistance, grâce à sa construction en bois massif de haute qualité.",
+        "dimensions": "Hauteur : 135 cm, Largeur : 85 cm, Profondeur : 75 cm",
+        "moreImgs": "/assets/boiler-40kw-2.webp"
+      },
+      {
+        "title": "Chaise en Bois Massif avec Chauffage 20 kW",
+        "description": "Une chaise en bois massif confortable et innovante avec un système de chauffage intégré de 20 kW pour une expérience chaude et douillette.",
+        "price": "€599.00",
+        "image": "/assets/boiler.webp",
+        "discount": 10,
+        "offer": "Pas d'offre actuelle",
+        "category": "Mobilier",
+        "fullDescription": "La Chaise en Bois Massif avec Chauffage 20 kW est un choix innovant et confortable pour ceux qui souhaitent profiter de la chaleur tout en se relaxant. Avec une puissance de 20 kW, cette chaise combine le confort du mobilier en bois massif avec un système de chauffage efficace, offrant une expérience de chaleur constante et enveloppante.",
+        "characteristics": "Puissance de chauffage : 20 kW pour une chaleur intense et efficace | Matériau : Bois massif de haute qualité pour durabilité et résistance | Système de chauffage intégré pour une distribution uniforme de la chaleur | Design élégant et moderne s'adaptant à divers styles de décoration | Contrôle de température ajustable pour personnaliser les niveaux de chaleur | Faible consommation d'énergie pour une performance de chauffage efficace.",
+        "benefits": "Confort thermique personnalisé, parfait pour se détendre en hiver | Système de chauffage économe en énergie avec haute performance | Écologique et durable, fabriqué à partir de bois provenant de sources responsables | Facile à utiliser avec des contrôles simples pour ajuster la température | Design attractif et fonctionnel, combinant élégance et technologie de chauffage avancée.",
+        "dimensions": "Taille standard de chaise avec design ergonomique",
+        "moreImgs": "/assets/solid-wood-heated-chair-2.webp"
+      },
+      {
+        "title": "Poêle à Bois Massif – 30 kW",
+        "description": "Un poêle à bois massif puissant et écologique de 30 kW, idéal pour chauffer efficacement les grands espaces.",
+        "price": "€899.00",
+        "image": "/assets/boiler.webp",
+        "discount": 15,
+        "offer": "Pas d'offre actuelle",
+        "category": "Chauffage",
+        "fullDescription": "Le Poêle à Bois Massif – 30 kW est la solution parfaite pour ceux qui recherchent une source de chauffage puissante, efficace et écologique pour leur maison. Avec une puissance de 30 kW, ce poêle est conçu pour fournir un chauffage efficace pour les grands espaces, le rendant idéal pour les maisons, chalets ou zones commerciales.",
+        "characteristics": "Puissance : 30 kW, adaptée pour chauffer de grands espaces ou pour un chauffage centralisé | Matériau : Construction robuste en bois massif avec des composants de haute qualité | Haute efficacité énergétique, assurant une utilisation optimale du bois de chauffage avec un minimum de déchets | Design fonctionnel et élégant, s'adaptant à divers styles intérieurs | Faibles émissions de CO2, contribuant à une solution de chauffage écologique | Idéal pour les poêles, chaudières et systèmes de chauffage de grande capacité.",
+        "benefits": "Haute performance thermique pour une chaleur durable et constante | Écologique et durable, utilisant le bois de chauffage comme source d'énergie renouvelable | Facile à utiliser et à entretenir, avec un système de contrôle accessible | Faibles émissions et combustion efficace, réduisant l'impact environnemental | Confort et autonomie, gardant votre maison chaude tout au long de l'hiver.",
+        "dimensions": "Taille standard de poêle pour le chauffage de grands espaces",
+        "moreImgs": "/assets/solid-wood-stove-30kw-2.webp"
+      }
+    ]
+  }
+  

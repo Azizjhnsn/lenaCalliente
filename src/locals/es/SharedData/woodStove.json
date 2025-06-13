@@ -1,0 +1,208 @@
+{
+  "stoves": [
+    {
+      "title": "Estufa de Leña MBS Eva de Tres Lados",
+      "description": "Una estufa de leña moderna y elegante con tres lados de vidrio para una vista impresionante del fuego.",
+      "price": "€1299.00",
+      "image": "/assets/Stove/stove1.webp",
+      "discount": 10,
+      "offer": "Oferta por tiempo limitado",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña MBS Eva de Tres Lados es una solución de calefacción estilizada y eficiente. Su diseño de vidrio de tres lados permite disfrutar del fuego desde múltiples ángulos, creando un ambiente acogedor y visualmente atractivo en su hogar. Esta estufa optimiza la combustión de la leña para una quema limpia y eficiente, reduciendo el consumo de combustible y las emisiones.",
+      "characteristics": "Diseño de vidrio de tres lados para una vista panorámica del fuego | Alta eficiencia energética con sistema de combustión avanzado | Fabricada con materiales de alta calidad y duraderos | Bajas emisiones de CO2 para una opción de calefacción ecológica | Alta capacidad de calefacción, adecuada para espacios medianos a grandes | Fácil mantenimiento con acceso conveniente para la limpieza.",
+      "benefits": "Eficiencia energética mejorada, reduciendo el consumo de leña | Diseño elegante y funcional que complementa cualquier interior | Calefacción constante y uniforme para un confort óptimo | Ahorro a largo plazo gracias al uso eficiente del combustible | Construcción duradera que asegura una larga vida útil | Fácil de operar y mantener con controles amigables.",
+      "dimensions": "Altura: 100 cm | Ancho: 60 cm | Profundidad: 50 cm",
+      "moreImgs": [
+        "/assets/mbs-eva-1.webp",
+        "/assets/mbs-eva-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña MBS Thermo In con Caldera",
+      "description": "Una estufa de leña de alta eficiencia con caldera integrada para calefacción central y calefacción de ambiente.",
+      "price": "€1899.00",
+      "image": "/assets/Stove/stove2.webp",
+      "discount": 15,
+      "offer": "Especial de invierno",
+      "category": "Estufas de Leña con Caldera",
+      "fullDescription": "La Estufa de Leña MBS Thermo In con Caldera es una solución de calefacción ideal para quienes buscan una forma ecológica y eficiente de calentar tanto su espacio habitable como su sistema de calefacción central. Integra una caldera de alta eficiencia que distribuye calor a radiadores o sistemas de calefacción por suelo radiante, asegurando un calor óptimo en todo su hogar.",
+      "characteristics": "Sistema de calefacción dual para aire y calefacción central | Alta potencia térmica, ideal para grandes espacios | Tecnología de combustión avanzada para una quema de leña optimizada | Bajas emisiones de CO2 para un medio ambiente más limpio | Diseño robusto y moderno con materiales premium | Fácil mantenimiento con sistema de limpieza accesible.",
+      "benefits": "Superior eficiencia energética con reducido consumo de leña | Calefacción uniforme para ambos espacios y sistema de agua central | Ecológica con una huella de carbono minimizada | Construcción duradera para un rendimiento a largo plazo | Diseño moderno y atractivo que se adapta a diversos estilos de hogar | Operación y mantenimiento sencillos.",
+      "dimensions": "Altura: 120 cm | Ancho: 65 cm | Profundidad: 55 cm",
+      "moreImgs": [
+        "/assets/mbs-thermo-in-1.webp",
+        "/assets/mbs-thermo-in-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña Thermo Vulcan 18 kW con Caldera",
+      "description": "Una potente estufa de leña de 18 kW con caldera integrada para calefacción doméstica y suministro de agua caliente.",
+      "price": "€2150.00",
+      "image": "/assets/Stove/stove3-10.webp",
+      "discount": 12,
+      "offer": "Oferta de calefacción ecológica",
+      "category": "Estufas de Leña con Caldera",
+      "fullDescription": "La Estufa de Leña Thermo Vulcan 18 kW con Caldera es una solución de calefacción altamente eficiente y ecológica. Diseñada para proporcionar tanto calefacción de ambiente como agua caliente para sistemas de calefacción central, asegura un calor constante y rentable en su hogar. Con una potencia de 18 kW, es ideal para hogares medianos a grandes.",
+      "characteristics": "Potencia de caldera de 18 kW, ideal para espacios medianos a grandes | Sistema de calefacción combinado de aire y agua | Alta eficiencia energética con combustión de leña optimizada | Diseño robusto y elegante para cualquier hogar | Fácil de usar y mantener con controles amigables | Fabricada con materiales premium para una durabilidad prolongada.",
+      "benefits": "Calefacción económica, reduciendo los costos de energía | Ecológica con bajas emisiones de CO2 | Proporciona calefacción doméstica y agua caliente | Fácil de instalar y usar | Larga vida útil gracias a su construcción de alta calidad | Distribución de calor cómoda y uniforme.",
+      "dimensions": "Altura: 130 cm | Ancho: 70 cm | Profundidad: 60 cm",
+      "moreImgs": [
+        "/assets/thermo-vulcan-1.webp",
+        "/assets/thermo-vulcan-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña Hunter 14B",
+      "description": "Una estufa de leña potente y eficiente diseñada para calentar espacios medianos a grandes.",
+      "price": "€1499.00",
+      "image": "/assets/Stove/stove4-5.webp",
+      "discount": 8,
+      "offer": "Stock limitado",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Hunter 14B es una excelente opción para quienes buscan una solución de calefacción potente y eficiente. Con su diseño moderno y robusto, esta estufa asegura una excelente distribución del calor, ideal para espacios medianos a grandes. Su sistema de combustión avanzado maximiza la eficiencia de la leña mientras reduce las emisiones.",
+      "characteristics": "Alta potencia de calefacción, adecuada para espacios medianos a grandes | Sistema de combustión eficiente para un uso optimizado de la leña | Diseño elegante y robusto para cualquier decoración del hogar | Materiales premium para durabilidad y longevidad | Bajas emisiones de CO2, haciéndola ecológica | Fácil de mantener y limpiar con componentes accesibles.",
+      "benefits": "Eficiencia energética con bajo consumo de leña | Ecológica con emisiones reducidas | Diseño elegante y funcional | Larga vida útil con materiales de alta calidad | Distribución de calor constante y cómoda | Fácil de operar y mantener.",
+      "dimensions": "Altura: 110 cm | Ancho: 62 cm | Profundidad: 50 cm",
+      "moreImgs": [
+        "/assets/hunter-14b-1.webp",
+        "/assets/hunter-14b-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña Hunter 80B",
+      "description": "Una estufa de leña de alto rendimiento diseñada para una calefacción doméstica eficiente y rentable.",
+      "price": "€899.00",
+      "image": "/assets/Stove/stove4-5.webp",
+      "discount": 15,
+      "offer": "Sin oferta actual",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Hunter 80B es una solución de calefacción de alto rendimiento, perfecta para quienes buscan calentar su hogar de manera eficiente y económica. Su potente sistema de combustión y diseño robusto aseguran una excelente distribución del calor, proporcionando un confort térmico constante en espacios grandes o medianos. Optimiza el uso de la leña, garantizando una quema más limpia y un menor consumo de combustible, lo que la convierte en una opción ecológica y rentable.",
+      "characteristics": "Alta potencia de calefacción, ideal para espacios grandes y medianos | Sistema de combustión eficiente que reduce el consumo de leña y las emisiones | Diseño elegante y robusto, construido con materiales de alta calidad para durabilidad | Bajas emisiones de CO2, contribuyendo a un ambiente más limpio | Gran capacidad de calefacción, proporcionando calor constante durante largas horas | Fácil mantenimiento con acceso sencillo para limpieza y control.",
+      "benefits": "Eficiencia energética con sistema de combustión optimizado que maximiza la eficiencia de la leña | Confort térmico constante, manteniendo su hogar cálido y acogedor todo el día | Ecológica debido a sus bajas emisiones y reducido consumo de leña | Diseño atractivo y funcional que se adapta a diversos estilos de interior | Duradera y resistente, construida con materiales fuertes para una larga vida útil | Fácil de usar y mantener con controles accesibles y operación sencilla.",
+      "dimensions": "Altura: 105 cm | Ancho: 60 cm | Profundidad: 55 cm",
+      "moreImgs": [
+        "/assets/hunter-80b-1.webp",
+        "/assets/hunter-80b-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña MBS Vesta",
+      "description": "Una estufa de leña ecológica y de alta eficiencia con un diseño moderno.",
+      "price": "€759.00",
+      "image": "/assets/Stove/stove6.webp",
+      "discount": 10,
+      "offer": "Sin oferta actual",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña MBS Vesta es una solución de calefacción ideal para quienes buscan eficiencia y ecología. Con un diseño elegante y funcional, la MBS Vesta ofrece un alto rendimiento térmico, asegurando un calor constante y cómodo en su hogar. Su sistema de combustión avanzado optimiza el uso de la leña, reduciendo tanto el consumo como las emisiones, lo que la convierte en una opción ecológica y rentable.",
+      "characteristics": "Alta eficiencia energética, optimizando el uso de la leña y reduciendo el consumo | Sistema de combustión avanzado para una quema limpia y eficiente | Diseño moderno y elegante, adaptable a diversos estilos de interior | Materiales de alta calidad que aseguran durabilidad y resistencia | Fácil mantenimiento con acceso conveniente para limpieza y control | Gran capacidad de calefacción, ideal para espacios medianos a grandes.",
+      "benefits": "Ecológica y económica, gracias al bajo consumo de leña y la alta eficiencia térmica | Bajas emisiones de CO2 para un ambiente más limpio y saludable | Calor constante y cómodo, ideal para mantener su hogar cálido durante los meses fríos | Diseño estilizado y funcional que combina eficiencia energética con una estética moderna | Durabilidad garantizada gracias a la robustez de los materiales utilizados.",
+      "dimensions": "Altura: 95 cm | Ancho: 55 cm | Profundidad: 45 cm",
+      "moreImgs": [
+        "/assets/mbs-vesta-1.webp",
+        "/assets/mbs-vesta-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña Olimp",
+      "description": "Una estufa de leña moderna y eficiente diseñada para una calefacción sostenible y rentable.",
+      "price": "€825.00",
+      "image": "/assets/Stove/stove7.webp",
+      "discount": 12,
+      "offer": "Sin oferta actual",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Olimp es la opción perfecta para quienes buscan una calefacción eficiente, ecológica y rentable. Con un diseño elegante y moderno, esta estufa está hecha de materiales de alta calidad, asegurando durabilidad y un excelente rendimiento térmico. Su sistema de combustión avanzado maximiza la eficiencia, proporcionando un calor constante y cómodo mientras minimiza las emisiones y el consumo de leña.",
+      "characteristics": "Diseño moderno y elegante, adecuado para diversos estilos de decoración | Alta eficiencia energética, asegurando un uso óptimo de la leña | Sistema de combustión avanzado que reduce las emisiones y mejora el rendimiento | Materiales de alta calidad que garantizan longevidad y resistencia | Fácil mantenimiento con características accesibles para limpieza y control | Tamaño perfecto para calentar espacios medianos a grandes.",
+      "benefits": "Ecológica y económica, aprovechando al máximo la energía de la leña mientras reduce el consumo | Confort térmico constante, manteniendo su hogar cálido durante los meses más fríos | Bajas emisiones de CO2 para un ambiente más limpio | Diseño compacto y funcional que ahorra espacio mientras ofrece alta eficiencia | Operación sencilla con controles fáciles para ajustes rápidos y precisos de la temperatura.",
+      "dimensions": "A: 90 cm, A: 60 cm, P: 40 cm",
+      "moreImgs": [
+        "/assets/olimp-wood-stove-1.webp",
+        "/assets/olimp-wood-stove-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña Olimpia",
+      "description": "Una estufa de leña de alto rendimiento con diseño elegante y construcción duradera.",
+      "price": "€899.00",
+      "image": "/assets/Stove/stove8.webp",
+      "discount": 18,
+      "offer": "Sin oferta actual",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Olimpia es una solución de calefacción de alto rendimiento que combina eficiencia, diseño y durabilidad. Con su construcción elegante y robusta, la Olimpia proporciona una excelente calefacción para su hogar, creando un ambiente cálido y acogedor. Su sistema de combustión avanzado asegura una quema eficiente de la leña, optimizando el uso de combustible mientras reduce las emisiones de CO2.",
+      "characteristics": "Alta capacidad de calefacción, ideal para espacios medianos a grandes | Sistema de combustión eficiente que maximiza el rendimiento de la leña y reduce el consumo | Diseño elegante y moderno, construido con materiales de alta calidad para durabilidad y resistencia | Bajas emisiones de CO2, contribuyendo a un ambiente más limpio y saludable | Gran capacidad de calefacción, asegurando un calor duradero | Fácil mantenimiento con acceso conveniente para limpieza y control.",
+      "benefits": "Eficiencia energética mejorada, utilizando la leña de manera más efectiva y reduciendo los costos de combustible | Confort térmico constante, manteniendo su hogar cálido y acogedor durante todo el día | Ecológica y económica, gracias a su bajo consumo de leña y alta eficiencia | Construcción duradera y resistente, asegurando un uso a largo plazo | Diseño estilizado y funcional que añade elegancia y calidez a su hogar | Fácil de usar y mantener, con controles accesibles y amigables.",
+      "dimensions": "A: 100 cm, A: 70 cm, P: 45 cm",
+      "moreImgs": [
+        "/assets/olimpia-wood-stove-1.webp",
+        "/assets/olimpia-wood-stove-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña Thermo Vulkan Plus",
+      "description": "Estufa de leña de alta gama con sistema de caldera integrado para calefacción eficiente y suministro de agua caliente.",
+      "price": "€1250.00",
+      "image": "/assets/Stove/stove9.webp",
+      "discount": 15,
+      "offer": "Sin oferta actual",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Thermo Vulkan Plus es una estufa premium que combina diseño elegante con excelente eficiencia energética. Ideal para quienes buscan una solución de calefacción integral, esta estufa no solo calienta la habitación, sino que también proporciona agua caliente para calefacción central o uso doméstico, gracias a su sistema de caldera integrado.",
+      "characteristics": "Sistema de caldera integrado para calentar agua para calefacción central y uso doméstico | Alta eficiencia energética, maximizando la energía de combustión de la leña | Diseño robusto y moderno que se adapta a diversos estilos de decoración | Bajas emisiones de CO2 para un ambiente más limpio y ecológico | Fácil mantenimiento y uso, con un sistema de limpieza sencillo y controles intuitivos | Alta capacidad de calefacción, capaz de calentar grandes espacios rápida y eficientemente | Construcción de acero de alta calidad, asegurando durabilidad y rendimiento duradero.",
+      "benefits": "Ahorro de energía y combustible, gracias a su eficiente sistema de combustión | Confort térmico constante, proporcionando un ambiente cálido y acogedor todo el día | Solución ecológica con bajas emisiones y combustión limpia | Sistema de calefacción integral, calentando tanto aire como agua para necesidades domésticas | Fiabilidad a largo plazo, con materiales de alta calidad que aseguran durabilidad | Fácil de usar y mantener, con un diseño práctico para limpieza y control.",
+      "dimensions": "A: 120 cm, A: 80 cm, P: 50 cm",
+      "moreImgs": [
+        "/assets/thermo-vulkan-plus-1.webp",
+        "/assets/thermo-vulkan-plus-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña Vulkan 14kW",
+      "description": "Estufa de leña potente y eficiente con diseño moderno y sistema de combustión avanzado.",
+      "price": "€890.00",
+      "image": "/assets/Stove/stove3-10.webp",
+      "discount": 10,
+      "offer": "Sin oferta actual",
+      "category": "Estufas de Leña",
+      "fullDescription": "La Estufa de Leña Vulkan 14kW es una excelente opción para quienes buscan una calefacción potente y eficiente. Con su diseño robusto y moderno, esta estufa ofrece una capacidad de calefacción sobresaliente, ideal para espacios medianos a grandes. Su sistema de combustión avanzado optimiza la quema de leña, asegurando una alta eficiencia energética y una distribución uniforme del calor.",
+      "characteristics": "Potencia térmica de 14 kW, adecuada para espacios medianos y grandes | Sistema de combustión eficiente que maximiza el rendimiento de la leña y reduce el consumo | Diseño moderno y robusto, fabricado con materiales de alta calidad para durabilidad | Bajas emisiones de CO2, promoviendo un ambiente más limpio y ecológico | Gran capacidad de calefacción, proporcionando calor constante durante todo el día | Fácil mantenimiento, con un diseño accesible para limpieza y control.",
+      "benefits": "Superior eficiencia energética, reduciendo el consumo de leña mientras se mantiene una alta salida térmica | Confort térmico constante, manteniendo su hogar cálido de manera uniforme y prolongada | Ecológica, con bajas emisiones y un proceso de combustión limpio | Durabilidad a largo plazo, construida con materiales robustos para una larga vida útil | Diseño elegante y funcional, adaptable a diferentes estilos de hogar | Fácil operación y mantenimiento, con controles intuitivos y accesibles.",
+      "dimensions": "A: 100 cm, A: 75 cm, P: 45 cm",
+      "moreImgs": [
+        "/assets/vulkan-14kw-1.webp",
+        "/assets/vulkan-14kw-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Leña de Jabón Olymp",
+      "description": "Estufa de leña de jabón elegante con alta eficiencia térmica y larga retención de calor.",
+      "price": "€1450.00",
+      "image": "/assets/Stove/stove11.webp",
+      "discount": 20,
+      "offer": "Sin oferta actual",
+      "category": "Estufas de Jabón",
+      "fullDescription": "La Estufa de Leña de Jabón Olymp es la opción ideal para quienes buscan una calefacción eficiente, duradera y ecológica. Fabricada con jabón, un material natural conocido por sus excelentes propiedades térmicas, esta estufa ofrece una distribución de calor constante y prolongada, manteniendo su hogar cálido incluso después de que el fuego se haya apagado.",
+      "characteristics": "Construida con jabón, conocido por sus excelentes propiedades de almacenamiento de calor | Distribución uniforme del calor, asegurando una temperatura cómoda y estable | Alta eficiencia energética, almacenando y liberando calor gradualmente durante horas | Sistema de combustión avanzado que reduce el consumo de leña y las emisiones | Diseño moderno y elegante, adaptable a diversos estilos de interior | Bajas emisiones de CO2, convirtiéndola en una solución de calefacción ecológica | Fácil mantenimiento, con acceso sencillo para limpieza y control.",
+      "benefits": "Confort térmico prolongado, ya que el jabón retiene y libera calor lentamente | Superior eficiencia energética, requiriendo menos leña mientras mantiene el calor por más tiempo | Ecológica y rentable, con un proceso de combustión limpio que minimiza las emisiones | Diseño atractivo y funcional que combina estética con alto rendimiento | Duradera y robusta, fabricada con jabón de alta calidad para longevidad | Fácil de usar y mantener, con controles accesibles y un diseño intuitivo.",
+      "dimensions": "A: 130 cm, A: 85 cm, P: 50 cm",
+      "moreImgs": [
+        "/assets/olymp-soapstone-1.webp",
+        "/assets/olymp-soapstone-2.webp"
+      ]
+    },
+    {
+      "title": "Estufa de Jabón Olympia",
+      "description": "Estufa de jabón de alto rendimiento con combustión avanzada y eficiente retención de calor.",
+      "price": "€1600.00",
+      "image": "/assets/Stove/stove12.webp",
+      "discount": 18,
+      "offer": "Sin oferta actual",
+      "category": "Estufas de Jabón",
+      "fullDescription": "La Estufa de Jabón Olympia es una solución de calefacción de alto rendimiento para quienes buscan una opción ecológica, eficiente y duradera. Fabricada con jabón, un material reconocido por sus propiedades térmicas, esta estufa combina elegancia y funcionalidad. El jabón almacena y distribuye el calor de manera uniforme durante largos períodos, asegurando un calor constante y cómodo.",
+      "characteristics": "Material de jabón, conocido por su capacidad para almacenar y distribuir calor eficientemente | Diseño moderno y elegante, adecuado para cualquier decoración del hogar | Alta eficiencia energética, optimizando el uso de la leña y maximizando la salida térmica | Sistema de combustión avanzado que reduce las emisiones y mejora la eficiencia de la quema de leña | Gran capacidad de retención de calor, proporcionando calor incluso después de que el fuego se haya apagado | Fácil mantenimiento, con un diseño accesible para limpieza y control.",
+      "benefits": "Excelente eficiencia térmica, proporcionando calor duradero y uniforme | Ecológica y rentable, reduciendo las emisiones y el consumo de leña | Diseño elegante y funcional que complementa diversos estilos de interior | Bajas emisiones de CO2, contribuyendo a un ambiente más limpio y saludable | Durabilidad garantizada, gracias a las propiedades robustas y resistentes del jabón | Confort constante, manteniendo el calor incluso después de que el fuego se haya apagado.",
+      "dimensions": "A: 135 cm, A: 90 cm, P: 55 cm",
+      "moreImgs": [
+        "/assets/olympia-soapstone-1.webp",
+        "/assets/olympia-soapstone-2.webp"
+      ]
+    }
+  ]
+}
